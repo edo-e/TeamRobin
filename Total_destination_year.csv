@@ -1,0 +1,1529 @@
+,Continent,Region,Destination,Year,Female,Male
+0,Africa,Eastern Africa,Burundi,1990,139444.0,134047.0
+1,Africa,Eastern Africa,Burundi,1995,109810.0,104307.0
+2,Africa,Eastern Africa,Burundi,2005,80117.0,76823.0
+3,Africa,Eastern Africa,Burundi,2015,133842.0,129127.0
+4,Africa,Eastern Africa,Burundi,2019,148255.0,143029.0
+5,Africa,Eastern Africa,Comoros,1990,6617.0,5943.0
+6,Africa,Eastern Africa,Comoros,1995,6583.0,5852.0
+7,Africa,Eastern Africa,Comoros,2005,6221.0,5562.0
+8,Africa,Eastern Africa,Comoros,2015,5828.0,5376.0
+9,Africa,Eastern Africa,Comoros,2019,5801.0,5355.0
+10,Africa,Eastern Africa,Djibouti,1990,54592.0,60029.0
+11,Africa,Eastern Africa,Djibouti,1995,44535.0,49033.0
+12,Africa,Eastern Africa,Djibouti,2000,44807.0,49446.0
+13,Africa,Eastern Africa,Djibouti,2005,38394.0,47968.0
+14,Africa,Eastern Africa,Djibouti,2010,45461.0,49798.0
+15,Africa,Eastern Africa,Djibouti,2015,50159.0,55206.0
+16,Africa,Eastern Africa,Djibouti,2019,51493.0,56675.0
+17,Africa,Eastern Africa,Eritrea,1990,4938.0,5408.0
+18,Africa,Eastern Africa,Eritrea,1995,4885.0,5466.0
+19,Africa,Eastern Africa,Eritrea,2000,4829.0,5527.0
+20,Africa,Eastern Africa,Eritrea,2005,5252.0,6222.0
+21,Africa,Eastern Africa,Eritrea,2010,5674.0,6916.0
+22,Africa,Eastern Africa,Eritrea,2015,5703.0,7101.0
+23,Africa,Eastern Africa,Eritrea,2019,5751.0,7173.0
+24,Africa,Eastern Africa,Ethiopia,1990,534112.0,591777.0
+25,Africa,Eastern Africa,Ethiopia,1995,365978.0,399323.0
+26,Africa,Eastern Africa,Ethiopia,2000,266392.0,283399.0
+27,Africa,Eastern Africa,Ethiopia,2005,222663.0,239772.0
+28,Africa,Eastern Africa,Ethiopia,2010,257318.0,285908.0
+29,Africa,Eastern Africa,Ethiopia,2015,527364.0,562152.0
+30,Africa,Eastern Africa,Ethiopia,2019,599872.0,625404.0
+31,Africa,Eastern Africa,Kenya,1990,92201.0,104529.0
+32,Africa,Eastern Africa,Kenya,1995,247972.0,263790.0
+33,Africa,Eastern Africa,Kenya,2000,319386.0,316754.0
+34,Africa,Eastern Africa,Kenya,2005,343807.0,368611.0
+35,Africa,Eastern Africa,Kenya,2010,452065.0,443663.0
+36,Africa,Eastern Africa,Kenya,2015,525331.0,522071.0
+37,Africa,Eastern Africa,Kenya,2019,486728.0,484429.0
+38,Africa,Eastern Africa,Madagascar,1990,7738.0,9765.0
+39,Africa,Eastern Africa,Madagascar,1995,6790.0,8709.0
+40,Africa,Eastern Africa,Madagascar,2000,7515.0,9712.0
+41,Africa,Eastern Africa,Madagascar,2005,8284.0,10786.0
+42,Africa,Eastern Africa,Madagascar,2010,9150.0,12001.0
+43,Africa,Eastern Africa,Madagascar,2015,10111.0,13352.0
+44,Africa,Eastern Africa,Madagascar,2019,11014.0,14541.0
+45,Africa,Eastern Africa,Malawi,1990,555649.0,531685.0
+46,Africa,Eastern Africa,Malawi,1995,48905.0,51260.0
+47,Africa,Eastern Africa,Malawi,2000,47216.0,49217.0
+48,Africa,Eastern Africa,Malawi,2005,45130.0,46764.0
+49,Africa,Eastern Africa,Malawi,2010,44402.0,45864.0
+50,Africa,Eastern Africa,Malawi,2015,50713.0,53486.0
+51,Africa,Eastern Africa,Malawi,2019,57489.0,59690.0
+52,Africa,Eastern Africa,Mauritius,1990,1624.0,1622.0
+53,Africa,Eastern Africa,Mauritius,1995,4005.0,2931.0
+54,Africa,Eastern Africa,Mauritius,2000,9386.0,5126.0
+55,Africa,Eastern Africa,Mauritius,2005,10094.0,8389.0
+56,Africa,Eastern Africa,Mauritius,2010,10902.0,12595.0
+57,Africa,Eastern Africa,Mauritius,2015,11924.0,15109.0
+58,Africa,Eastern Africa,Mauritius,2019,12034.0,15250.0
+59,Africa,Eastern Africa,Mayotte,1990,5243.0,7490.0
+60,Africa,Eastern Africa,Mayotte,1995,11048.0,13958.0
+61,Africa,Eastern Africa,Mayotte,2000,21701.0,23251.0
+62,Africa,Eastern Africa,Mayotte,2005,31271.0,30818.0
+63,Africa,Eastern Africa,Mayotte,2010,37464.0,33784.0
+64,Africa,Eastern Africa,Mayotte,2015,38934.0,33525.0
+65,Africa,Eastern Africa,Mayotte,2019,39277.0,33821.0
+66,Africa,Eastern Africa,Mozambique,1990,27984.0,33761.0
+67,Africa,Eastern Africa,Mozambique,1995,38324.0,46609.0
+68,Africa,Eastern Africa,Mozambique,2000,46032.0,52764.0
+69,Africa,Eastern Africa,Mozambique,2005,68052.0,65576.0
+70,Africa,Eastern Africa,Mozambique,2010,78804.0,75931.0
+71,Africa,Eastern Africa,Mozambique,2015,84817.0,81649.0
+72,Africa,Eastern Africa,Mozambique,2019,89461.0,86092.0
+73,Africa,Eastern Africa,Rwanda,1990,68886.0,70919.0
+74,Africa,Eastern Africa,Rwanda,1995,98493.0,102784.0
+75,Africa,Eastern Africa,Rwanda,2000,167208.0,170544.0
+76,Africa,Eastern Africa,Rwanda,2005,202193.0,203679.0
+77,Africa,Eastern Africa,Rwanda,2010,204361.0,206433.0
+78,Africa,Eastern Africa,Rwanda,2015,254527.0,251270.0
+79,Africa,Eastern Africa,Rwanda,2019,266047.0,264600.0
+80,Africa,Eastern Africa,Réunion,1990,20003.0,24101.0
+81,Africa,Eastern Africa,Réunion,1995,30270.0,34712.0
+82,Africa,Eastern Africa,Réunion,2000,42198.0,46668.0
+83,Africa,Eastern Africa,Réunion,2005,48395.0,54332.0
+84,Africa,Eastern Africa,Réunion,2010,51971.0,58863.0
+85,Africa,Eastern Africa,Réunion,2015,53997.0,60603.0
+86,Africa,Eastern Africa,Réunion,2019,54818.0,61531.0
+87,Africa,Eastern Africa,Seychelles,1990,1138.0,1809.0
+88,Africa,Eastern Africa,Seychelles,1995,1815.0,2699.0
+89,Africa,Eastern Africa,Seychelles,2000,2505.0,3590.0
+90,Africa,Eastern Africa,Seychelles,2005,2985.0,5583.0
+91,Africa,Eastern Africa,Seychelles,2010,3482.0,7571.0
+92,Africa,Eastern Africa,Seychelles,2015,3681.0,8686.0
+93,Africa,Eastern Africa,Seychelles,2019,3709.0,8777.0
+94,Africa,Eastern Africa,Somalia,1990,225139.0,234861.0
+95,Africa,Eastern Africa,Somalia,1995,8554.0,9490.0
+96,Africa,Eastern Africa,Somalia,2000,262.0,293.0
+97,Africa,Eastern Africa,Somalia,2005,544.0,615.0
+98,Africa,Eastern Africa,Somalia,2010,12845.0,13375.0
+99,Africa,Eastern Africa,Somalia,2015,6835.0,6840.0
+100,Africa,Eastern Africa,Somalia,2019,9691.0,9697.0
+101,Africa,Eastern Africa,South Sudan,2010,124123.0,131218.0
+102,Africa,Eastern Africa,South Sudan,2015,412179.0,429446.0
+103,Africa,Eastern Africa,South Sudan,2019,422848.0,440136.0
+104,Africa,Eastern Africa,Uganda,1990,251060.0,272844.0
+105,Africa,Eastern Africa,Uganda,1995,289158.0,298769.0
+106,Africa,Eastern Africa,Uganda,2000,292298.0,289455.0
+107,Africa,Eastern Africa,Uganda,2005,300074.0,290788.0
+108,Africa,Eastern Africa,Uganda,2010,249892.0,240551.0
+109,Africa,Eastern Africa,Uganda,2015,434166.0,414485.0
+110,Africa,Eastern Africa,Uganda,2019,896367.0,835256.0
+111,Africa,Eastern Africa,United Republic of Tanzania,1990,278127.0,272083.0
+112,Africa,Eastern Africa,United Republic of Tanzania,1995,547622.0,536558.0
+113,Africa,Eastern Africa,United Republic of Tanzania,2000,455893.0,470625.0
+114,Africa,Eastern Africa,United Republic of Tanzania,2005,272680.0,475533.0
+115,Africa,Eastern Africa,United Republic of Tanzania,2010,145421.0,145140.0
+116,Africa,Eastern Africa,United Republic of Tanzania,2015,168167.0,164655.0
+117,Africa,Eastern Africa,United Republic of Tanzania,2019,234499.0,228261.0
+118,Africa,Eastern Africa,Zambia,1990,52457.0,59237.0
+119,Africa,Eastern Africa,Zambia,1995,31071.0,36683.0
+120,Africa,Eastern Africa,Zambia,2000,43921.0,46752.0
+121,Africa,Eastern Africa,Zambia,2005,56542.0,60466.0
+122,Africa,Eastern Africa,Zambia,2010,37415.0,39236.0
+123,Africa,Eastern Africa,Zambia,2015,37087.0,38439.0
+124,Africa,Eastern Africa,Zambia,2019,51954.0,54365.0
+125,Africa,Eastern Africa,Zimbabwe,1990,258115.0,327865.0
+126,Africa,Eastern Africa,Zimbabwe,1995,159191.0,211445.0
+127,Africa,Eastern Africa,Zimbabwe,2000,144220.0,191390.0
+128,Africa,Eastern Africa,Zimbabwe,2005,124812.0,165339.0
+129,Africa,Eastern Africa,Zimbabwe,2010,109977.0,146292.0
+130,Africa,Eastern Africa,Zimbabwe,2015,112371.0,145299.0
+131,Africa,Eastern Africa,Zimbabwe,2019,114151.0,150449.0
+132,Africa,Middle Africa,Angola,1990,12519.0,15121.0
+133,Africa,Middle Africa,Angola,1995,15604.0,17383.0
+134,Africa,Middle Africa,Angola,2015,56683.0,52155.0
+135,Africa,Middle Africa,Angola,2019,66451.0,91171.0
+136,Africa,Middle Africa,Cameroon,1990,98345.0,114130.0
+137,Africa,Middle Africa,Cameroon,1995,91753.0,105925.0
+138,Africa,Middle Africa,Cameroon,2000,85160.0,97719.0
+139,Africa,Middle Africa,Cameroon,2010,125200.0,154079.0
+140,Africa,Middle Africa,Cameroon,2015,245658.0,242334.0
+141,Africa,Middle Africa,Cameroon,2019,247326.0,242039.0
+142,Africa,Middle Africa,Central African Republic,1990,26944.0,30363.0
+143,Africa,Middle Africa,Central African Republic,1995,36014.0,39896.0
+144,Africa,Middle Africa,Central African Republic,2000,41978.0,45944.0
+145,Africa,Middle Africa,Central African Republic,2005,32059.0,35164.0
+146,Africa,Middle Africa,Central African Republic,2010,31704.0,34820.0
+147,Africa,Middle Africa,Central African Republic,2015,27869.0,30207.0
+148,Africa,Middle Africa,Central African Republic,2019,30923.0,33596.0
+149,Africa,Middle Africa,Chad,1990,31802.0,37309.0
+150,Africa,Middle Africa,Chad,1995,38668.0,45234.0
+151,Africa,Middle Africa,Chad,2000,45531.0,53158.0
+152,Africa,Middle Africa,Chad,2005,187382.0,155592.0
+153,Africa,Middle Africa,Chad,2010,224210.0,181952.0
+154,Africa,Middle Africa,Chad,2015,245131.0,207493.0
+155,Africa,Middle Africa,Chad,2019,269087.0,227402.0
+156,Africa,Middle Africa,Congo,1990,56015.0,55130.0
+157,Africa,Middle Africa,Congo,1995,83323.0,83988.0
+158,Africa,Middle Africa,Congo,2000,133147.0,135144.0
+159,Africa,Middle Africa,Congo,2005,134263.0,161857.0
+160,Africa,Middle Africa,Congo,2010,173508.0,206616.0
+161,Africa,Middle Africa,Congo,2015,152831.0,187634.0
+162,Africa,Middle Africa,Congo,2019,157610.0,193317.0
+163,Africa,Middle Africa,Democratic Republic of the Congo,1990,100828.0,93716.0
+164,Africa,Middle Africa,Democratic Republic of the Congo,1995,725250.0,714268.0
+165,Africa,Middle Africa,Democratic Republic of the Congo,2000,148612.0,143048.0
+166,Africa,Middle Africa,Democratic Republic of the Congo,2005,118088.0,113671.0
+167,Africa,Middle Africa,Democratic Republic of the Congo,2010,89109.0,79329.0
+168,Africa,Middle Africa,Democratic Republic of the Congo,2015,307857.0,296325.0
+169,Africa,Middle Africa,Democratic Republic of the Congo,2019,386168.0,364650.0
+170,Africa,Middle Africa,Equatorial Guinea,1990,1071.0,1143.0
+171,Africa,Middle Africa,Equatorial Guinea,1995,1429.0,1505.0
+172,Africa,Middle Africa,Equatorial Guinea,2000,1783.0,1867.0
+173,Africa,Middle Africa,Equatorial Guinea,2005,2542.0,2783.0
+174,Africa,Middle Africa,Equatorial Guinea,2010,3296.0,3700.0
+175,Africa,Middle Africa,Equatorial Guinea,2015,4069.0,4677.0
+176,Africa,Middle Africa,Equatorial Guinea,2019,4474.0,5143.0
+177,Africa,Middle Africa,Gabon,1990,53670.0,70778.0
+178,Africa,Middle Africa,Gabon,1995,71825.0,94603.0
+179,Africa,Middle Africa,Gabon,2000,89209.0,118968.0
+180,Africa,Middle Africa,Gabon,2005,96302.0,130702.0
+181,Africa,Middle Africa,Gabon,2010,109405.0,153524.0
+182,Africa,Middle Africa,Gabon,2015,131601.0,236039.0
+183,Africa,Middle Africa,Gabon,2019,143095.0,256339.0
+184,Africa,Middle Africa,Sao Tome and Principe,1990,2302.0,2713.0
+185,Africa,Middle Africa,Sao Tome and Principe,1995,2061.0,2229.0
+186,Africa,Middle Africa,Sao Tome and Principe,2000,1710.0,1913.0
+187,Africa,Middle Africa,Sao Tome and Principe,2005,1353.0,1493.0
+188,Africa,Middle Africa,Sao Tome and Principe,2010,1067.0,1169.0
+189,Africa,Middle Africa,Sao Tome and Principe,2015,949.0,1031.0
+190,Africa,Middle Africa,Sao Tome and Principe,2019,861.0,935.0
+191,Africa,Northern Africa,Algeria,1990,40819.0,47306.0
+192,Africa,Northern Africa,Algeria,1995,36952.0,43869.0
+193,Africa,Northern Africa,Algeria,2015,33046.0,37308.0
+194,Africa,Northern Africa,Algeria,2019,34360.0,38804.0
+195,Africa,Northern Africa,Egypt,1990,74866.0,84305.0
+196,Africa,Northern Africa,Egypt,1995,71669.0,81157.0
+197,Africa,Northern Africa,Egypt,2000,79148.0,89461.0
+198,Africa,Northern Africa,Egypt,2010,129397.0,167246.0
+199,Africa,Northern Africa,Egypt,2015,136559.0,194543.0
+200,Africa,Northern Africa,Egypt,2019,217573.0,254297.0
+201,Africa,Northern Africa,Libya,1990,208454.0,235122.0
+202,Africa,Northern Africa,Libya,1995,200936.0,291072.0
+203,Africa,Northern Africa,Libya,2000,192043.0,356558.0
+204,Africa,Northern Africa,Libya,2005,173783.0,430681.0
+205,Africa,Northern Africa,Libya,2010,187949.0,473351.0
+206,Africa,Northern Africa,Libya,2015,214781.0,530775.0
+207,Africa,Northern Africa,Libya,2019,231180.0,576273.0
+208,Africa,Northern Africa,Morocco,1990,16384.0,18401.0
+209,Africa,Northern Africa,Morocco,1995,15264.0,16655.0
+210,Africa,Northern Africa,Morocco,2000,16349.0,17274.0
+211,Africa,Northern Africa,Morocco,2005,17019.0,17465.0
+212,Africa,Northern Africa,Morocco,2010,24121.0,24508.0
+213,Africa,Northern Africa,Morocco,2015,31564.0,31811.0
+214,Africa,Northern Africa,Morocco,2019,33662.0,33931.0
+215,Africa,Northern Africa,Sudan,1990,690339.0,679273.0
+216,Africa,Northern Africa,Sudan,1995,511283.0,508260.0
+217,Africa,Northern Africa,Sudan,2000,383710.0,386740.0
+218,Africa,Northern Africa,Sudan,2005,250304.0,258847.0
+219,Africa,Northern Africa,Sudan,2010,290529.0,299958.0
+220,Africa,Northern Africa,Sudan,2015,298089.0,300629.0
+221,Africa,Northern Africa,Sudan,2019,602722.0,593475.0
+222,Africa,Northern Africa,Tunisia,1990,9177.0,9091.0
+223,Africa,Northern Africa,Tunisia,1995,9039.0,9143.0
+224,Africa,Northern Africa,Tunisia,2000,9737.0,10079.0
+225,Africa,Northern Africa,Tunisia,2005,9198.0,9699.0
+226,Africa,Northern Africa,Tunisia,2010,13122.0,13933.0
+227,Africa,Northern Africa,Tunisia,2015,16991.0,18178.0
+228,Africa,Northern Africa,Tunisia,2019,17252.0,18484.0
+229,Africa,Northern Africa,Western Sahara,1990,1152.0,1387.0
+230,Africa,Northern Africa,Western Sahara,1995,1260.0,1560.0
+231,Africa,Northern Africa,Western Sahara,2000,1369.0,1738.0
+232,Africa,Northern Africa,Western Sahara,2005,1570.0,2105.0
+233,Africa,Northern Africa,Western Sahara,2010,1774.0,2470.0
+234,Africa,Northern Africa,Western Sahara,2015,1997.0,2892.0
+235,Africa,Northern Africa,Western Sahara,2019,2073.0,3006.0
+236,Africa,Southern Africa,Botswana,1990,7174.0,11208.0
+237,Africa,Southern Africa,Botswana,1995,9210.0,14032.0
+238,Africa,Southern Africa,Botswana,2015,12549.0,19023.0
+239,Africa,Southern Africa,Botswana,2019,13426.0,20373.0
+240,Africa,Southern Africa,Eswatini,1990,31600.0,36216.0
+241,Africa,Southern Africa,Eswatini,1995,12875.0,15123.0
+242,Africa,Southern Africa,Eswatini,2000,12098.0,14469.0
+243,Africa,Southern Africa,Eswatini,2010,12847.0,11996.0
+244,Africa,Southern Africa,Eswatini,2015,12726.0,11957.0
+245,Africa,Southern Africa,Eswatini,2019,12888.0,12069.0
+246,Africa,Southern Africa,Lesotho,1990,2184.0,2131.0
+247,Africa,Southern Africa,Lesotho,1995,1907.0,1973.0
+248,Africa,Southern Africa,Lesotho,2000,1691.0,1876.0
+249,Africa,Southern Africa,Lesotho,2005,1723.0,1912.0
+250,Africa,Southern Africa,Lesotho,2010,1756.0,1948.0
+251,Africa,Southern Africa,Lesotho,2015,1797.0,1997.0
+252,Africa,Southern Africa,Lesotho,2019,1889.0,2103.0
+253,Africa,Southern Africa,Namibia,1990,33144.0,32848.0
+254,Africa,Southern Africa,Namibia,1995,31457.0,31617.0
+255,Africa,Southern Africa,Namibia,2000,29172.0,29485.0
+256,Africa,Southern Africa,Namibia,2005,23269.0,23293.0
+257,Africa,Southern Africa,Namibia,2010,22418.0,22564.0
+258,Africa,Southern Africa,Namibia,2015,21844.0,22143.0
+259,Africa,Southern Africa,Namibia,2019,23084.0,23434.0
+260,Africa,Southern Africa,South Africa,1990,360147.0,621702.0
+261,Africa,Southern Africa,South Africa,1995,321658.0,524291.0
+262,Africa,Southern Africa,South Africa,2000,320722.0,492504.0
+263,Africa,Southern Africa,South Africa,2005,452215.0,639473.0
+264,Africa,Southern Africa,South Africa,2010,643311.0,937003.0
+265,Africa,Southern Africa,South Africa,2015,961140.0,1272450.0
+266,Africa,Southern Africa,South Africa,2019,1076164.0,1427286.0
+267,Africa,Western Africa,Benin,1990,32747.0,36291.0
+268,Africa,Western Africa,Benin,1995,44531.0,50555.0
+269,Africa,Western Africa,Benin,2015,175337.0,151959.0
+270,Africa,Western Africa,Benin,2019,186427.0,162156.0
+271,Africa,Western Africa,Burkina Faso,1990,170316.0,156563.0
+272,Africa,Western Africa,Burkina Faso,1995,226665.0,209111.0
+273,Africa,Western Africa,Burkina Faso,2000,252591.0,233388.0
+274,Africa,Western Africa,Burkina Faso,2010,330898.0,298697.0
+275,Africa,Western Africa,Burkina Faso,2015,346007.0,312335.0
+276,Africa,Western Africa,Burkina Faso,2019,352430.0,318116.0
+277,Africa,Western Africa,Cabo Verde,1990,2815.0,2736.0
+278,Africa,Western Africa,Cabo Verde,1995,3438.0,3577.0
+279,Africa,Western Africa,Cabo Verde,2000,4046.0,4418.0
+280,Africa,Western Africa,Cabo Verde,2005,5105.0,5418.0
+281,Africa,Western Africa,Cabo Verde,2010,6149.0,6412.0
+282,Africa,Western Africa,Cabo Verde,2015,6405.0,6637.0
+283,Africa,Western Africa,Cabo Verde,2019,6708.0,6968.0
+284,Africa,Western Africa,Côte d'Ivoire,1990,795126.0,999832.0
+285,Africa,Western Africa,Côte d'Ivoire,1995,908399.0,1130396.0
+286,Africa,Western Africa,Côte d'Ivoire,2000,937452.0,1165869.0
+287,Africa,Western Africa,Côte d'Ivoire,2005,981392.0,1220525.0
+288,Africa,Western Africa,Côte d'Ivoire,2010,1025743.0,1274771.0
+289,Africa,Western Africa,Côte d'Ivoire,2015,1069699.0,1329411.0
+290,Africa,Western Africa,Côte d'Ivoire,2019,1104856.0,1373129.0
+291,Africa,Western Africa,Gambia,1990,50543.0,64140.0
+292,Africa,Western Africa,Gambia,1995,67207.0,79439.0
+293,Africa,Western Africa,Gambia,2000,83276.0,93922.0
+294,Africa,Western Africa,Gambia,2005,83577.0,93053.0
+295,Africa,Western Africa,Gambia,2010,85529.0,94843.0
+296,Africa,Western Africa,Gambia,2015,88810.0,98145.0
+297,Africa,Western Africa,Gambia,2019,99358.0,109795.0
+298,Africa,Western Africa,Ghana,1990,75760.0,77948.0
+299,Africa,Western Africa,Ghana,1995,119995.0,121778.0
+300,Africa,Western Africa,Ghana,2000,87653.0,91523.0
+301,Africa,Western Africa,Ghana,2005,136257.0,150707.0
+302,Africa,Western Africa,Ghana,2010,129713.0,157328.0
+303,Africa,Western Africa,Ghana,2015,159651.0,193566.0
+304,Africa,Western Africa,Ghana,2019,179276.0,218235.0
+305,Africa,Western Africa,Guinea,1990,201249.0,198737.0
+306,Africa,Western Africa,Guinea,1995,386368.0,382854.0
+307,Africa,Western Africa,Guinea,2000,277645.0,272870.0
+308,Africa,Western Africa,Guinea,2005,98400.0,89824.0
+309,Africa,Western Africa,Guinea,2010,67495.0,61755.0
+310,Africa,Western Africa,Guinea,2015,43685.0,61000.0
+311,Africa,Western Africa,Guinea,2019,41624.0,58221.0
+312,Africa,Western Africa,Guinea-Bissau,1990,7340.0,7386.0
+313,Africa,Western Africa,Guinea-Bissau,1995,13574.0,13309.0
+314,Africa,Western Africa,Guinea-Bissau,2000,9526.0,9411.0
+315,Africa,Western Africa,Guinea-Bissau,2005,9882.0,9772.0
+316,Africa,Western Africa,Guinea-Bissau,2010,10412.0,9998.0
+317,Africa,Western Africa,Guinea-Bissau,2015,11141.0,10501.0
+318,Africa,Western Africa,Guinea-Bissau,2019,12990.0,12175.0
+319,Africa,Western Africa,Liberia,1990,31437.0,43162.0
+320,Africa,Western Africa,Liberia,1995,88200.0,101528.0
+321,Africa,Western Africa,Liberia,2000,61833.0,73239.0
+322,Africa,Western Africa,Liberia,2005,33191.0,45028.0
+323,Africa,Western Africa,Liberia,2010,40218.0,52652.0
+324,Africa,Western Africa,Liberia,2015,46469.0,59907.0
+325,Africa,Western Africa,Liberia,2019,38041.0,48143.0
+326,Africa,Western Africa,Mali,1990,70078.0,72391.0
+327,Africa,Western Africa,Mali,1995,76187.0,80749.0
+328,Africa,Western Africa,Mali,2000,65575.0,71832.0
+329,Africa,Western Africa,Mali,2005,89340.0,95167.0
+330,Africa,Western Africa,Mali,2010,151041.0,156597.0
+331,Africa,Western Africa,Mali,2015,187104.0,194050.0
+332,Africa,Western Africa,Mali,2019,215228.0,224455.0
+333,Africa,Western Africa,Mauritania,1990,52653.0,56064.0
+334,Africa,Western Africa,Mauritania,1995,41176.0,45265.0
+335,Africa,Western Africa,Mauritania,2000,24793.0,29021.0
+336,Africa,Western Africa,Mauritania,2005,24102.0,30302.0
+337,Africa,Western Africa,Mauritania,2010,23988.0,31273.0
+338,Africa,Western Africa,Mauritania,2015,56303.0,75128.0
+339,Africa,Western Africa,Mauritania,2019,58516.0,78220.0
+340,Africa,Western Africa,Niger,1990,55253.0,49759.0
+341,Africa,Western Africa,Niger,1995,71302.0,64369.0
+342,Africa,Western Africa,Niger,2000,59121.0,52860.0
+343,Africa,Western Africa,Niger,2005,60248.0,53750.0
+344,Africa,Western Africa,Niger,2010,61296.0,54535.0
+345,Africa,Western Africa,Niger,2015,126155.0,114705.0
+346,Africa,Western Africa,Niger,2019,146541.0,133891.0
+347,Africa,Western Africa,Nigeria,1990,131499.0,168057.0
+348,Africa,Western Africa,Nigeria,1995,160000.0,201537.0
+349,Africa,Western Africa,Nigeria,2000,195401.0,242576.0
+350,Africa,Western Africa,Nigeria,2005,363473.0,506652.0
+351,Africa,Western Africa,Nigeria,2010,370748.0,516783.0
+352,Africa,Western Africa,Nigeria,2015,485855.0,590587.0
+353,Africa,Western Africa,Nigeria,2019,509064.0,618804.0
+354,Africa,Western Africa,Saint Helena,1990,60.0,99.0
+355,Africa,Western Africa,Saint Helena,1995,41.0,63.0
+356,Africa,Western Africa,Saint Helena,2000,41.0,56.0
+357,Africa,Western Africa,Saint Helena,2005,67.0,73.0
+358,Africa,Western Africa,Saint Helena,2010,93.0,114.0
+359,Africa,Western Africa,Saint Helena,2015,103.0,210.0
+360,Africa,Western Africa,Saint Helena,2019,108.0,252.0
+361,Africa,Western Africa,Senegal,1990,109792.0,121164.0
+362,Africa,Western Africa,Senegal,1995,117883.0,129063.0
+363,Africa,Western Africa,Senegal,2000,89220.0,106284.0
+364,Africa,Western Africa,Senegal,2005,91614.0,107812.0
+365,Africa,Western Africa,Senegal,2010,96672.0,115688.0
+366,Africa,Western Africa,Senegal,2015,99713.0,119610.0
+367,Africa,Western Africa,Senegal,2019,103014.0,123495.0
+368,Africa,Western Africa,Sierra Leone,1990,98776.0,122322.0
+369,Africa,Western Africa,Sierra Leone,1995,42103.0,55388.0
+370,Africa,Western Africa,Sierra Leone,2000,43313.0,53664.0
+371,Africa,Western Africa,Sierra Leone,2005,69185.0,76209.0
+372,Africa,Western Africa,Sierra Leone,2010,35251.0,43037.0
+373,Africa,Western Africa,Sierra Leone,2015,25385.0,32497.0
+374,Africa,Western Africa,Sierra Leone,2019,23257.0,30166.0
+375,Africa,Western Africa,Togo,1990,34517.0,39534.0
+376,Africa,Western Africa,Togo,1995,43155.0,47567.0
+377,Africa,Western Africa,Togo,2000,59758.0,64726.0
+378,Africa,Western Africa,Togo,2005,90154.0,94375.0
+379,Africa,Western Africa,Togo,2010,115514.0,119728.0
+380,Africa,Western Africa,Togo,2015,125987.0,129860.0
+381,Africa,Western Africa,Togo,2019,125998.0,131471.0
+382,Africa,Western Asia,Armenia,1990,334860.0,229802.0
+383,Africa,Western Asia,Armenia,1995,386579.0,268207.0
+384,Africa,Western Asia,Armenia,2015,101995.0,69300.0
+385,Africa,Western Asia,Armenia,2019,100549.0,69815.0
+386,Africa,Western Asia,Azerbaijan,1990,200823.0,156001.0
+387,Africa,Western Asia,Azerbaijan,1995,192972.0,147770.0
+388,Africa,Western Asia,Azerbaijan,2000,185079.0,139747.0
+389,Africa,Western Asia,Azerbaijan,2010,146099.0,128117.0
+390,Africa,Western Asia,Azerbaijan,2015,136354.0,125211.0
+391,Africa,Western Asia,Azerbaijan,2019,130988.0,120287.0
+392,Africa,Western Asia,Bahrain,1990,47715.0,116895.0
+393,Africa,Western Asia,Bahrain,1995,57721.0,136971.0
+394,Africa,Western Asia,Bahrain,2000,68654.0,156699.0
+395,Africa,Western Asia,Bahrain,2005,106895.0,274714.0
+396,Africa,Western Asia,Bahrain,2010,168438.0,453662.0
+397,Africa,Western Asia,Bahrain,2015,186688.0,494026.0
+398,Africa,Western Asia,Bahrain,2019,196489.0,520004.0
+399,Africa,Western Asia,Cyprus,1990,23074.0,20143.0
+400,Africa,Western Asia,Cyprus,1995,33981.0,27164.0
+401,Africa,Western Asia,Cyprus,2000,44811.0,34191.0
+402,Africa,Western Asia,Cyprus,2005,66013.0,49619.0
+403,Africa,Western Asia,Cyprus,2010,106683.0,82600.0
+404,Africa,Western Asia,Cyprus,2015,105929.0,82612.0
+405,Africa,Western Asia,Cyprus,2019,104711.0,83622.0
+406,Africa,Western Asia,Georgia,1990,165034.0,124150.0
+407,Africa,Western Asia,Georgia,1995,84729.0,64861.0
+408,Africa,Western Asia,Georgia,2000,40974.0,32133.0
+409,Africa,Western Asia,Georgia,2005,38904.0,30526.0
+410,Africa,Western Asia,Georgia,2010,39280.0,30828.0
+411,Africa,Western Asia,Georgia,2015,41223.0,32368.0
+412,Africa,Western Asia,Georgia,2019,42504.0,33345.0
+413,Africa,Western Asia,Iraq,1990,18688.0,43226.0
+414,Africa,Western Asia,Iraq,1995,70156.0,103692.0
+415,Africa,Western Asia,Iraq,2000,72960.0,113292.0
+416,Africa,Western Asia,Iraq,2005,37935.0,67154.0
+417,Africa,Western Asia,Iraq,2010,31039.0,58248.0
+418,Africa,Western Asia,Iraq,2015,138796.0,192408.0
+419,Africa,Western Asia,Iraq,2019,142139.0,197055.0
+420,Africa,Western Asia,Israel,1990,742571.0,663063.0
+421,Africa,Western Asia,Israel,1995,782578.0,676805.0
+422,Africa,Western Asia,Israel,2000,770364.0,661045.0
+423,Africa,Western Asia,Israel,2005,718279.0,613590.0
+424,Africa,Western Asia,Israel,2010,676364.0,572119.0
+425,Africa,Western Asia,Israel,2015,700966.0,586630.0
+426,Africa,Western Asia,Israel,2019,681643.0,570478.0
+427,Africa,Western Asia,Jordan,1990,557921.0,583678.0
+428,Africa,Western Asia,Jordan,1995,750148.0,781675.0
+429,Africa,Western Asia,Jordan,2000,942387.0,979662.0
+430,Africa,Western Asia,Jordan,2005,1138232.0,1177919.0
+431,Africa,Western Asia,Jordan,2010,1334050.0,1376326.0
+432,Africa,Western Asia,Jordan,2015,1522875.0,1539056.0
+433,Africa,Western Asia,Jordan,2019,1637675.0,1655112.0
+434,Africa,Western Asia,Kuwait,1990,391486.0,618843.0
+435,Africa,Western Asia,Kuwait,1995,306189.0,557175.0
+436,Africa,Western Asia,Kuwait,2000,336357.0,715401.0
+437,Africa,Western Asia,Kuwait,2005,373015.0,857453.0
+438,Africa,Western Asia,Kuwait,2010,498135.0,1217913.0
+439,Africa,Western Asia,Kuwait,2015,894013.0,1789828.0
+440,Africa,Western Asia,Kuwait,2019,946622.0,1895181.0
+441,Africa,Western Asia,Lebanon,1990,253484.0,265518.0
+442,Africa,Western Asia,Lebanon,1995,295353.0,308253.0
+443,Africa,Western Asia,Lebanon,2000,337224.0,350989.0
+444,Africa,Western Asia,Lebanon,2005,364659.0,388445.0
+445,Africa,Western Asia,Lebanon,2010,392095.0,425902.0
+446,Africa,Western Asia,Lebanon,2015,1023597.0,947359.0
+447,Africa,Western Asia,Lebanon,2019,966868.0,894869.0
+448,Africa,Western Asia,Oman,1990,59792.0,239560.0
+449,Africa,Western Asia,Oman,1995,115136.0,405948.0
+450,Africa,Western Asia,Oman,2000,125592.0,470774.0
+451,Africa,Western Asia,Oman,2005,127703.0,510519.0
+452,Africa,Western Asia,Oman,2010,144658.0,638442.0
+453,Africa,Western Asia,Oman,2015,279455.0,1501439.0
+454,Africa,Western Asia,Oman,2019,344182.0,1849253.0
+455,Africa,Western Asia,Qatar,1990,79126.0,215249.0
+456,Africa,Western Asia,Qatar,1995,85808.0,256187.0
+457,Africa,Western Asia,Qatar,2000,79267.0,259386.0
+458,Africa,Western Asia,Qatar,2005,136194.0,472207.0
+459,Africa,Western Asia,Qatar,2010,230122.0,1141558.0
+460,Africa,Western Asia,Qatar,2015,256690.0,1361859.0
+461,Africa,Western Asia,Qatar,2019,368064.0,1791133.0
+462,Africa,Western Asia,Saudi Arabia,1990,1461180.0,2917212.0
+463,Africa,Western Asia,Saudi Arabia,1995,1489684.0,2997558.0
+464,Africa,Western Asia,Saudi Arabia,2000,1522089.0,3088394.0
+465,Africa,Western Asia,Saudi Arabia,2005,1774141.0,3921159.0
+466,Africa,Western Asia,Saudi Arabia,2010,2179712.0,5204557.0
+467,Africa,Western Asia,Saudi Arabia,2015,2880143.0,6526559.0
+468,Africa,Western Asia,Saudi Arabia,2019,3586098.0,7873715.0
+469,Africa,Western Asia,State of Palestine,1990,143711.0,120588.0
+470,Africa,Western Asia,State of Palestine,1995,141143.0,117138.0
+471,Africa,Western Asia,State of Palestine,2000,138574.0,113688.0
+472,Africa,Western Asia,State of Palestine,2005,134446.0,108449.0
+473,Africa,Western Asia,State of Palestine,2010,130314.0,103212.0
+474,Africa,Western Asia,State of Palestine,2015,129338.0,101903.0
+475,Africa,Western Asia,State of Palestine,2019,128434.0,101196.0
+476,Africa,Western Asia,Syrian Arab Republic,1990,121486.0,127246.0
+477,Africa,Western Asia,Syrian Arab Republic,1995,145337.0,147556.0
+478,Africa,Western Asia,Syrian Arab Republic,2000,189916.0,197646.0
+479,Africa,Western Asia,Syrian Arab Republic,2005,380886.0,397896.0
+480,Africa,Western Asia,Syrian Arab Republic,2010,791478.0,822132.0
+481,Africa,Western Asia,Syrian Arab Republic,2015,394440.0,408592.0
+482,Africa,Western Asia,Syrian Arab Republic,2019,391678.0,408289.0
+483,Africa,Western Asia,Turkey,1990,488736.0,482309.0
+484,Africa,Western Asia,Turkey,1995,542063.0,517413.0
+485,Africa,Western Asia,Turkey,2000,603307.0,559525.0
+486,Africa,Western Asia,Turkey,2005,635265.0,562147.0
+487,Africa,Western Asia,Turkey,2010,671898.0,568118.0
+488,Africa,Western Asia,Turkey,2015,1877585.0,2298902.0
+489,Africa,Western Asia,Turkey,2019,2548548.0,3166490.0
+490,Africa,Western Asia,United Arab Emirates,1990,353430.0,887982.0
+491,Africa,Western Asia,United Arab Emirates,1995,479528.0,1242784.0
+492,Africa,Western Asia,United Arab Emirates,2000,639118.0,1663526.0
+493,Africa,Western Asia,United Arab Emirates,2005,825877.0,2271674.0
+494,Africa,Western Asia,United Arab Emirates,2010,1713278.0,5201508.0
+495,Africa,Western Asia,United Arab Emirates,2015,1945956.0,5609978.0
+496,Africa,Western Asia,United Arab Emirates,2019,2090417.0,6025122.0
+497,Africa,Western Asia,Yemen,1990,39115.0,51136.0
+498,Africa,Western Asia,Yemen,1995,44060.0,60285.0
+499,Africa,Western Asia,Yemen,2000,50156.0,63981.0
+500,Africa,Western Asia,Yemen,2005,57320.0,81310.0
+501,Africa,Western Asia,Yemen,2010,115203.0,137730.0
+502,Africa,Western Asia,Yemen,2015,162817.0,182709.0
+503,Africa,Western Asia,Yemen,2019,165268.0,185481.0
+504,America,Caribbean,Anguilla,1990,873.0,1029.0
+505,America,Caribbean,Anguilla,1995,1148.0,1302.0
+506,America,Caribbean,Anguilla,2010,1768.0,1988.0
+507,America,Caribbean,Anguilla,2015,1889.0,2133.0
+508,America,Caribbean,Anguilla,2019,1955.0,2215.0
+509,America,Caribbean,Antigua and Barbuda,1990,5816.0,5371.0
+510,America,Caribbean,Antigua and Barbuda,1995,9206.0,7759.0
+511,America,Caribbean,Antigua and Barbuda,2000,12571.0,10143.0
+512,America,Caribbean,Antigua and Barbuda,2010,14415.0,11588.0
+513,America,Caribbean,Antigua and Barbuda,2015,15336.0,12313.0
+514,America,Caribbean,Antigua and Barbuda,2019,15926.0,12806.0
+515,America,Caribbean,Aruba,1990,6322.0,4777.0
+516,America,Caribbean,Aruba,1995,10622.0,8380.0
+517,America,Caribbean,Aruba,2000,14908.0,11989.0
+518,America,Caribbean,Aruba,2005,16887.0,13257.0
+519,America,Caribbean,Aruba,2010,18233.0,14557.0
+520,America,Caribbean,Aruba,2015,19198.0,15298.0
+521,America,Caribbean,Aruba,2019,19408.0,15478.0
+522,America,Caribbean,Bahamas,1990,12246.0,13052.0
+523,America,Caribbean,Bahamas,1995,14534.0,16128.0
+524,America,Caribbean,Bahamas,2000,16824.0,19200.0
+525,America,Caribbean,Bahamas,2005,21588.0,23261.0
+526,America,Caribbean,Bahamas,2010,26354.0,27323.0
+527,America,Caribbean,Bahamas,2015,28761.0,29397.0
+528,America,Caribbean,Bahamas,2019,30502.0,31202.0
+529,America,Caribbean,Barbados,1990,10888.0,7338.0
+530,America,Caribbean,Barbados,1995,11691.0,8203.0
+531,America,Caribbean,Barbados,2000,12494.0,9070.0
+532,America,Caribbean,Barbados,2005,11770.0,8657.0
+533,America,Caribbean,Barbados,2010,11022.0,8217.0
+534,America,Caribbean,Barbados,2015,11572.0,8631.0
+535,America,Caribbean,Barbados,2019,11676.0,8712.0
+536,America,Caribbean,"Bonaire, Sint Eustatius and Saba",1990,20659.0,16771.0
+537,America,Caribbean,"Bonaire, Sint Eustatius and Saba",1995,22394.0,17822.0
+538,America,Caribbean,"Bonaire, Sint Eustatius and Saba",2000,24129.0,18868.0
+539,America,Caribbean,"Bonaire, Sint Eustatius and Saba",2005,25702.0,20096.0
+540,America,Caribbean,"Bonaire, Sint Eustatius and Saba",2010,5664.0,5209.0
+541,America,Caribbean,"Bonaire, Sint Eustatius and Saba",2015,6427.0,5926.0
+542,America,Caribbean,"Bonaire, Sint Eustatius and Saba",2019,7634.0,7062.0
+543,America,Caribbean,British Virgin Islands,1990,3447.0,3681.0
+544,America,Caribbean,British Virgin Islands,1995,4156.0,4228.0
+545,America,Caribbean,British Virgin Islands,2000,4855.0,4776.0
+546,America,Caribbean,British Virgin Islands,2005,5563.0,5472.0
+547,America,Caribbean,British Virgin Islands,2010,6984.0,6818.0
+548,America,Caribbean,British Virgin Islands,2015,7817.0,7639.0
+549,America,Caribbean,British Virgin Islands,2019,8478.0,8297.0
+550,America,Caribbean,Cayman Islands,1990,4691.0,4543.0
+551,America,Caribbean,Cayman Islands,1995,6287.0,6288.0
+552,America,Caribbean,Cayman Islands,2000,9450.0,9604.0
+553,America,Caribbean,Cayman Islands,2005,10115.0,10452.0
+554,America,Caribbean,Cayman Islands,2010,11694.0,12251.0
+555,America,Caribbean,Cayman Islands,2015,12729.0,13331.0
+556,America,Caribbean,Cayman Islands,2019,14068.0,14757.0
+557,America,Caribbean,Cuba,1990,14494.0,14157.0
+558,America,Caribbean,Cuba,1995,11450.0,10272.0
+559,America,Caribbean,Cuba,2000,8386.0,6395.0
+560,America,Caribbean,Cuba,2005,5601.0,4283.0
+561,America,Caribbean,Cuba,2010,3117.0,2366.0
+562,America,Caribbean,Cuba,2015,2502.0,1871.0
+563,America,Caribbean,Cuba,2019,2300.0,1705.0
+564,America,Caribbean,Curaçao,2010,20094.0,13905.0
+565,America,Caribbean,Curaçao,2015,21783.0,15147.0
+566,America,Caribbean,Curaçao,2019,23660.0,16464.0
+567,America,Caribbean,Dominica,1990,896.0,968.0
+568,America,Caribbean,Dominica,1995,1179.0,1273.0
+569,America,Caribbean,Dominica,2000,1392.0,1532.0
+570,America,Caribbean,Dominica,2005,1707.0,1881.0
+571,America,Caribbean,Dominica,2010,2942.0,3202.0
+572,America,Caribbean,Dominica,2015,2866.0,3168.0
+573,America,Caribbean,Dominica,2019,2913.0,3233.0
+574,America,Caribbean,Dominican Republic,1990,107649.0,179241.0
+575,America,Caribbean,Dominican Republic,1995,122481.0,196195.0
+576,America,Caribbean,Dominican Republic,2000,137274.0,213130.0
+577,America,Caribbean,Dominican Republic,2005,144619.0,224127.0
+578,America,Caribbean,Dominican Republic,2010,150926.0,233542.0
+579,America,Caribbean,Dominican Republic,2015,191564.0,347963.0
+580,America,Caribbean,Dominican Republic,2019,197970.0,359596.0
+581,America,Caribbean,Grenada,1990,1402.0,1369.0
+582,America,Caribbean,Grenada,1995,1815.0,1727.0
+583,America,Caribbean,Grenada,2000,2235.0,2085.0
+584,America,Caribbean,Grenada,2005,2330.0,2191.0
+585,America,Caribbean,Grenada,2010,2436.0,2297.0
+586,America,Caribbean,Grenada,2015,2462.0,2323.0
+587,America,Caribbean,Grenada,2019,2479.0,2346.0
+588,America,Caribbean,Guadeloupe,1990,31115.0,30759.0
+589,America,Caribbean,Guadeloupe,1995,35897.0,34077.0
+590,America,Caribbean,Guadeloupe,2000,40666.0,37394.0
+591,America,Caribbean,Guadeloupe,2005,44945.0,38844.0
+592,America,Caribbean,Guadeloupe,2010,49216.0,40291.0
+593,America,Caribbean,Guadeloupe,2015,51553.0,41313.0
+594,America,Caribbean,Guadeloupe,2019,52338.0,41952.0
+595,America,Caribbean,Haiti,1990,7660.0,9599.0
+596,America,Caribbean,Haiti,1995,7265.0,9120.0
+597,America,Caribbean,Haiti,2000,6890.0,8664.0
+598,America,Caribbean,Haiti,2005,6536.0,8229.0
+599,America,Caribbean,Haiti,2010,6856.0,8639.0
+600,America,Caribbean,Haiti,2015,7190.0,9069.0
+601,America,Caribbean,Haiti,2019,7466.0,9434.0
+602,America,Caribbean,Jamaica,1990,9263.0,8743.0
+603,America,Caribbean,Jamaica,1995,10167.0,9898.0
+604,America,Caribbean,Jamaica,2000,11072.0,11055.0
+605,America,Caribbean,Jamaica,2005,10718.0,10842.0
+606,America,Caribbean,Jamaica,2010,10365.0,10632.0
+607,America,Caribbean,Jamaica,2015,10141.0,10403.0
+608,America,Caribbean,Jamaica,2019,10274.0,10539.0
+609,America,Caribbean,Martinique,1990,18956.0,18032.0
+610,America,Caribbean,Martinique,1995,23559.0,21372.0
+611,America,Caribbean,Martinique,2000,28159.0,24711.0
+612,America,Caribbean,Martinique,2005,30197.0,25140.0
+613,America,Caribbean,Martinique,2010,32234.0,25568.0
+614,America,Caribbean,Martinique,2015,33688.0,26208.0
+615,America,Caribbean,Martinique,2019,33643.0,26173.0
+616,America,Caribbean,Montserrat,1990,711.0,769.0
+617,America,Caribbean,Montserrat,1995,571.0,616.0
+618,America,Caribbean,Montserrat,2000,427.0,466.0
+619,America,Caribbean,Montserrat,2005,443.0,478.0
+620,America,Caribbean,Montserrat,2010,459.0,492.0
+621,America,Caribbean,Montserrat,2015,481.0,516.0
+622,America,Caribbean,Montserrat,2019,490.0,526.0
+623,America,Caribbean,Puerto Rico,1990,163170.0,148511.0
+624,America,Caribbean,Puerto Rico,1995,171622.0,155630.0
+625,America,Caribbean,Puerto Rico,2000,180570.0,163092.0
+626,America,Caribbean,Puerto Rico,2005,176953.0,159277.0
+627,America,Caribbean,Puerto Rico,2010,152242.0,134320.0
+628,America,Caribbean,Puerto Rico,2015,137583.0,120307.0
+629,America,Caribbean,Puerto Rico,2019,131490.0,114033.0
+630,America,Caribbean,Saint Kitts and Nevis,1990,675.0,671.0
+631,America,Caribbean,Saint Kitts and Nevis,1995,883.0,900.0
+632,America,Caribbean,Saint Kitts and Nevis,2000,1201.0,1264.0
+633,America,Caribbean,Saint Kitts and Nevis,2005,1363.0,1439.0
+634,America,Caribbean,Saint Kitts and Nevis,2010,1476.0,1562.0
+635,America,Caribbean,Saint Kitts and Nevis,2015,1507.0,1610.0
+636,America,Caribbean,Saint Kitts and Nevis,2019,1531.0,1640.0
+637,America,Caribbean,Saint Lucia,1990,1875.0,1676.0
+638,America,Caribbean,Saint Lucia,1995,2481.0,2231.0
+639,America,Caribbean,Saint Lucia,2000,3429.0,3138.0
+640,America,Caribbean,Saint Lucia,2005,4057.0,3704.0
+641,America,Caribbean,Saint Lucia,2010,4345.0,4006.0
+642,America,Caribbean,Saint Lucia,2015,4152.0,3824.0
+643,America,Caribbean,Saint Lucia,2019,4006.0,3696.0
+644,America,Caribbean,Saint Vincent and the Grenadines,1990,1897.0,1770.0
+645,America,Caribbean,Saint Vincent and the Grenadines,1995,1973.0,1848.0
+646,America,Caribbean,Saint Vincent and the Grenadines,2000,2053.0,1928.0
+647,America,Caribbean,Saint Vincent and the Grenadines,2005,2084.0,2015.0
+648,America,Caribbean,Saint Vincent and the Grenadines,2010,2112.0,2112.0
+649,America,Caribbean,Saint Vincent and the Grenadines,2015,2125.0,2163.0
+650,America,Caribbean,Saint Vincent and the Grenadines,2019,2130.0,2205.0
+651,America,Caribbean,Sint Maarten (Dutch part),2005,6033.0,5513.0
+652,America,Caribbean,Sint Maarten (Dutch part),2010,12084.0,10999.0
+653,America,Caribbean,Sint Maarten (Dutch part),2015,12621.0,11428.0
+654,America,Caribbean,Sint Maarten (Dutch part),2019,13051.0,11833.0
+655,America,Caribbean,Trinidad and Tobago,1990,25014.0,21631.0
+656,America,Caribbean,Trinidad and Tobago,1995,22759.0,19585.0
+657,America,Caribbean,Trinidad and Tobago,2000,20399.0,17402.0
+658,America,Caribbean,Trinidad and Tobago,2005,21943.0,18628.0
+659,America,Caribbean,Trinidad and Tobago,2010,21517.0,19423.0
+660,America,Caribbean,Trinidad and Tobago,2015,21975.0,20650.0
+661,America,Caribbean,Trinidad and Tobago,2019,26857.0,25267.0
+662,America,Caribbean,Turks and Caicos Islands,1990,2162.0,2319.0
+663,America,Caribbean,Turks and Caicos Islands,1995,2848.0,3053.0
+664,America,Caribbean,Turks and Caicos Islands,2000,3760.0,3986.0
+665,America,Caribbean,Turks and Caicos Islands,2005,4042.0,4198.0
+666,America,Caribbean,Turks and Caicos Islands,2010,6399.0,6535.0
+667,America,Caribbean,Turks and Caicos Islands,2015,8798.0,8962.0
+668,America,Caribbean,Turks and Caicos Islands,2019,9495.0,9680.0
+669,America,Caribbean,United States Virgin Islands,1990,20101.0,18400.0
+670,America,Caribbean,United States Virgin Islands,1995,22564.0,20427.0
+671,America,Caribbean,United States Virgin Islands,2000,25090.0,22484.0
+672,America,Caribbean,United States Virgin Islands,2005,25782.0,22977.0
+673,America,Caribbean,United States Virgin Islands,2010,26496.0,23473.0
+674,America,Caribbean,United States Virgin Islands,2015,26515.0,23480.0
+675,America,Caribbean,United States Virgin Islands,2019,26521.0,23490.0
+676,America,Central America,Belize,1990,13556.0,15758.0
+677,America,Central America,Belize,1995,15460.0,16857.0
+678,America,Central America,Belize,2010,22311.0,22886.0
+679,America,Central America,Belize,2015,26464.0,26831.0
+680,America,Central America,Belize,2019,29033.0,29444.0
+681,America,Central America,Costa Rica,1990,102456.0,105726.0
+682,America,Central America,Costa Rica,1995,98695.0,104260.0
+683,America,Central America,Costa Rica,2000,148312.0,150886.0
+684,America,Central America,Costa Rica,2010,201919.0,188319.0
+685,America,Central America,Costa Rica,2015,206272.0,189985.0
+686,America,Central America,Costa Rica,2019,207929.0,194133.0
+687,America,Central America,El Salvador,1990,24918.0,21943.0
+688,America,Central America,El Salvador,1995,20796.0,18344.0
+689,America,Central America,El Salvador,2000,16676.0,14744.0
+690,America,Central America,El Salvador,2005,18858.0,16849.0
+691,America,Central America,El Salvador,2010,21041.0,18954.0
+692,America,Central America,El Salvador,2015,21908.0,19794.0
+693,America,Central America,El Salvador,2019,22189.0,20059.0
+694,America,Central America,Guatemala,1990,151418.0,112466.0
+695,America,Central America,Guatemala,1995,89082.0,66724.0
+696,America,Central America,Guatemala,2000,26723.0,20983.0
+697,America,Central America,Guatemala,2005,30989.0,25774.0
+698,America,Central America,Guatemala,2010,35254.0,30566.0
+699,America,Central America,Guatemala,2015,39975.0,35729.0
+700,America,Central America,Guatemala,2019,41007.0,36670.0
+701,America,Central America,Honduras,1990,132743.0,137391.0
+702,America,Central America,Honduras,1995,73256.0,75899.0
+703,America,Central America,Honduras,2000,13770.0,14408.0
+704,America,Central America,Honduras,2005,13324.0,14274.0
+705,America,Central America,Honduras,2010,12880.0,14137.0
+706,America,Central America,Honduras,2015,18036.0,19880.0
+707,America,Central America,Honduras,2019,18308.0,20197.0
+708,America,Central America,Mexico,1990,344033.0,345295.0
+709,America,Central America,Mexico,1995,225196.0,225969.0
+710,America,Central America,Mexico,2000,262770.0,266537.0
+711,America,Central America,Mexico,2005,346958.0,353372.0
+712,America,Central America,Mexico,2010,470781.0,481772.0
+713,America,Central America,Mexico,2015,494667.0,497099.0
+714,America,Central America,Mexico,2019,509969.0,512510.0
+715,America,Central America,Nicaragua,1990,19832.0,19970.0
+716,America,Central America,Nicaragua,1995,12658.0,12655.0
+717,America,Central America,Nicaragua,2000,14154.0,14533.0
+718,America,Central America,Nicaragua,2005,16019.0,16681.0
+719,America,Central America,Nicaragua,2010,17019.0,17965.0
+720,America,Central America,Nicaragua,2015,18279.0,19473.0
+721,America,Central America,Nicaragua,2019,19153.0,20394.0
+722,America,Central America,Panama,1990,29232.0,32673.0
+723,America,Central America,Panama,1995,33614.0,36159.0
+724,America,Central America,Panama,2000,40391.0,41725.0
+725,America,Central America,Panama,2005,56808.0,58729.0
+726,America,Central America,Panama,2010,75132.0,79418.0
+727,America,Central America,Panama,2015,88449.0,93062.0
+728,America,Central America,Panama,2019,88980.0,92390.0
+729,America,North America,Bermuda,1990,7800.0,7230.0
+730,America,North America,Bermuda,1995,8241.0,7739.0
+731,America,North America,Bermuda,2000,8681.0,8249.0
+732,America,North America,Bermuda,2010,9171.0,8686.0
+733,America,North America,Bermuda,2015,9272.0,8814.0
+734,America,North America,Bermuda,2019,9359.0,8908.0
+735,America,North America,Canada,1990,2206844.0,2093546.0
+736,America,North America,Canada,1995,2479389.0,2328461.0
+737,America,North America,Canada,2000,2810344.0,2619289.0
+738,America,North America,Canada,2010,3447098.0,3160687.0
+739,America,North America,Canada,2015,3808125.0,3443768.0
+740,America,North America,Canada,2019,4080750.0,3690389.0
+741,America,North America,Greenland,1990,2767.0,6455.0
+742,America,North America,Greenland,1995,2221.0,4818.0
+743,America,North America,Greenland,2000,1942.0,4537.0
+744,America,North America,Greenland,2005,2037.0,4370.0
+745,America,North America,Greenland,2010,1884.0,4000.0
+746,America,North America,Greenland,2015,1875.0,3650.0
+747,America,North America,Greenland,2019,1840.0,3583.0
+748,America,North America,Saint Pierre and Miquelon,1990,475.0,470.0
+749,America,North America,Saint Pierre and Miquelon,1995,561.0,586.0
+750,America,North America,Saint Pierre and Miquelon,2000,615.0,661.0
+751,America,North America,Saint Pierre and Miquelon,2005,540.0,587.0
+752,America,North America,Saint Pierre and Miquelon,2010,478.0,519.0
+753,America,North America,Saint Pierre and Miquelon,2015,463.0,504.0
+754,America,North America,Saint Pierre and Miquelon,2019,463.0,506.0
+755,America,North America,United States of America,1990,10343758.0,9632841.0
+756,America,North America,United States of America,1995,13480420.0,12892229.0
+757,America,North America,United States of America,2000,16654007.0,16218336.0
+758,America,North America,United States of America,2005,18497394.0,18131269.0
+759,America,North America,United States of America,2010,21336587.0,20271033.0
+760,America,North America,United States of America,2015,23294168.0,21924783.0
+761,America,North America,United States of America,2019,24603262.0,22861383.0
+762,America,South America,Argentina,1990,814574.0,750396.0
+763,America,South America,Argentina,1995,796469.0,715656.0
+764,America,South America,Argentina,2010,954375.0,813122.0
+765,America,South America,Argentina,2015,1103054.0,938899.0
+766,America,South America,Argentina,2019,1170240.0,997520.0
+767,America,South America,Bolivia (Plurinational State of),1990,24421.0,26330.0
+768,America,South America,Bolivia (Plurinational State of),1995,27490.0,29802.0
+769,America,South America,Bolivia (Plurinational State of),2000,30311.0,33020.0
+770,America,South America,Bolivia (Plurinational State of),2010,39098.0,44075.0
+771,America,South America,Bolivia (Plurinational State of),2015,45501.0,51303.0
+772,America,South America,Bolivia (Plurinational State of),2019,49630.0,56000.0
+773,America,South America,Brazil,1990,343932.0,393173.0
+774,America,South America,Brazil,1995,317758.0,362640.0
+775,America,South America,Brazil,2000,291553.0,332108.0
+776,America,South America,Brazil,2005,273055.0,314075.0
+777,America,South America,Brazil,2010,254803.0,296355.0
+778,America,South America,Brazil,2015,307296.0,349405.0
+779,America,South America,Brazil,2019,346016.0,393490.0
+780,America,South America,Chile,1990,36415.0,38279.0
+781,America,South America,Chile,1995,53124.0,49893.0
+782,America,South America,Chile,2000,69549.0,61817.0
+783,America,South America,Chile,2005,119683.0,105647.0
+784,America,South America,Chile,2010,169830.0,149481.0
+785,America,South America,Chile,2015,309823.0,272948.0
+786,America,South America,Chile,2019,456926.0,409467.0
+787,America,South America,Colombia,1990,49535.0,51206.0
+788,America,South America,Colombia,1995,50666.0,52714.0
+789,America,South America,Colombia,2000,51761.0,54224.0
+790,America,South America,Colombia,2005,50355.0,53739.0
+791,America,South America,Colombia,2010,56924.0,63327.0
+792,America,South America,Colombia,2015,63076.0,71516.0
+793,America,South America,Colombia,2019,563727.0,572793.0
+794,America,South America,Ecuador,1990,39301.0,37410.0
+795,America,South America,Ecuador,1995,49508.0,48677.0
+796,America,South America,Ecuador,2000,59676.0,59952.0
+797,America,South America,Ecuador,2005,74323.0,75430.0
+798,America,South America,Ecuador,2010,133262.0,139218.0
+799,America,South America,Ecuador,2015,151487.0,159045.0
+800,America,South America,Ecuador,2019,149188.0,156487.0
+801,America,South America,Falkland Islands (Malvinas),1990,339.0,458.0
+802,America,South America,Falkland Islands (Malvinas),1995,328.0,464.0
+803,America,South America,Falkland Islands (Malvinas),2000,399.0,586.0
+804,America,South America,Falkland Islands (Malvinas),2005,444.0,607.0
+805,America,South America,Falkland Islands (Malvinas),2010,592.0,761.0
+806,America,South America,Falkland Islands (Malvinas),2015,657.0,823.0
+807,America,South America,Falkland Islands (Malvinas),2019,792.0,997.0
+808,America,South America,French Guiana,1990,27205.0,33058.0
+809,America,South America,French Guiana,1995,31454.0,34968.0
+810,America,South America,French Guiana,2000,35694.0,36881.0
+811,America,South America,French Guiana,2005,41697.0,40759.0
+812,America,South America,French Guiana,2010,47691.0,44639.0
+813,America,South America,French Guiana,2015,54449.0,49236.0
+814,America,South America,French Guiana,2019,60229.0,54464.0
+815,America,South America,Guyana,1990,1700.0,1969.0
+816,America,South America,Guyana,1995,2613.0,3010.0
+817,America,South America,Guyana,2000,3517.0,4053.0
+818,America,South America,Guyana,2005,4594.0,5377.0
+819,America,South America,Guyana,2010,5662.0,6700.0
+820,America,South America,Guyana,2015,6638.0,7850.0
+821,America,South America,Guyana,2019,6764.0,8013.0
+822,America,South America,Paraguay,1990,64849.0,74138.0
+823,America,South America,Paraguay,1995,57532.0,66139.0
+824,America,South America,Paraguay,2000,50374.0,57568.0
+825,America,South America,Paraguay,2005,47977.0,54846.0
+826,America,South America,Paraguay,2010,45802.0,52158.0
+827,America,South America,Paraguay,2015,44754.0,50854.0
+828,America,South America,Paraguay,2019,45905.0,52174.0
+829,America,South America,Peru,1990,24256.0,24422.0
+830,America,South America,Peru,1995,24599.0,24155.0
+831,America,South America,Peru,2000,28751.0,28273.0
+832,America,South America,Peru,2005,33483.0,33528.0
+833,America,South America,Peru,2010,42146.0,49305.0
+834,America,South America,Peru,2015,55819.0,82541.0
+835,America,South America,Peru,2019,348683.0,413453.0
+836,America,South America,Suriname,1990,4871.0,5710.0
+837,America,South America,Suriname,1995,5994.0,7076.0
+838,America,South America,Suriname,2000,7403.0,8740.0
+839,America,South America,Suriname,2005,8993.0,10762.0
+840,America,South America,Suriname,2010,10596.0,12710.0
+841,America,South America,Suriname,2015,11491.0,13817.0
+842,America,South America,Suriname,2019,12280.0,14804.0
+843,America,South America,Uruguay,1990,39042.0,38265.0
+844,America,South America,Uruguay,1995,35037.0,33628.0
+845,America,South America,Uruguay,2000,31825.0,27961.0
+846,America,South America,Uruguay,2005,25514.0,21545.0
+847,America,South America,Uruguay,2010,23856.0,19757.0
+848,America,South America,Uruguay,2015,24640.0,20389.0
+849,America,South America,Uruguay,2019,25396.0,21159.0
+850,America,South America,Venezuela (Bolivarian Republic of),1990,502721.0,512240.0
+851,America,South America,Venezuela (Bolivarian Republic of),1995,501496.0,507763.0
+852,America,South America,Venezuela (Bolivarian Republic of),2000,500705.0,503812.0
+853,America,South America,Venezuela (Bolivarian Republic of),2005,533776.0,533181.0
+854,America,South America,Venezuela (Bolivarian Republic of),2010,666343.0,670982.0
+855,America,South America,Venezuela (Bolivarian Republic of),2015,695973.0,698022.0
+856,America,South America,Venezuela (Bolivarian Republic of),2019,684733.0,680666.0
+857,Asia,Central Asia,Kazakhstan,1990,1725893.0,1466367.0
+858,Asia,Central Asia,Kazakhstan,1995,1587197.0,1349216.0
+859,Asia,Central Asia,Kazakhstan,2015,1659800.0,1627297.0
+860,Asia,Central Asia,Kazakhstan,2019,1734456.0,1700493.0
+861,Asia,Central Asia,Kyrgyzstan,1990,354185.0,254535.0
+862,Asia,Central Asia,Kyrgyzstan,1995,294908.0,212123.0
+863,Asia,Central Asia,Kyrgyzstan,2000,222038.0,159103.0
+864,Asia,Central Asia,Kyrgyzstan,2010,134647.0,92420.0
+865,Asia,Central Asia,Kyrgyzstan,2015,119267.0,80714.0
+866,Asia,Central Asia,Kyrgyzstan,2019,116867.0,79082.0
+867,Asia,Central Asia,Tajikistan,1990,235667.0,183848.0
+868,Asia,Central Asia,Tajikistan,1995,189346.0,146086.0
+869,Asia,Central Asia,Tajikistan,2000,158297.0,123586.0
+870,Asia,Central Asia,Tajikistan,2005,151849.0,115515.0
+871,Asia,Central Asia,Tajikistan,2010,150864.0,115876.0
+872,Asia,Central Asia,Tajikistan,2015,149363.0,112893.0
+873,Asia,Central Asia,Tajikistan,2019,148796.0,112481.0
+874,Asia,Central Asia,Turkmenistan,1990,171311.0,133064.0
+875,Asia,Central Asia,Turkmenistan,1995,138980.0,129650.0
+876,Asia,Central Asia,Turkmenistan,2000,114200.0,100867.0
+877,Asia,Central Asia,Turkmenistan,2005,109821.0,99266.0
+878,Asia,Central Asia,Turkmenistan,2010,105312.0,88819.0
+879,Asia,Central Asia,Turkmenistan,2015,102830.0,89231.0
+880,Asia,Central Asia,Turkmenistan,2019,100903.0,89931.0
+881,Asia,Central Asia,Uzbekistan,1990,888974.0,688459.0
+882,Asia,Central Asia,Uzbekistan,1995,813038.0,620868.0
+883,Asia,Central Asia,Uzbekistan,2000,756788.0,568313.0
+884,Asia,Central Asia,Uzbekistan,2005,697174.0,550397.0
+885,Asia,Central Asia,Uzbekistan,2010,620879.0,519222.0
+886,Asia,Central Asia,Uzbekistan,2015,586492.0,507516.0
+887,Asia,Central Asia,Uzbekistan,2019,584785.0,506892.0
+888,Asia,Eastern Asia,China,1990,144802.0,153598.0
+889,Asia,Eastern Asia,China,1995,166453.0,177609.0
+890,Asia,Eastern Asia,China,2015,307463.0,506324.0
+891,Asia,Eastern Asia,China,2019,324057.0,533675.0
+892,Asia,Eastern Asia,"China, Hong Kong SAR",1990,965196.0,1035069.0
+893,Asia,Eastern Asia,"China, Hong Kong SAR",1995,1077570.0,1075303.0
+894,Asia,Eastern Asia,"China, Hong Kong SAR",2000,1189928.0,1115536.0
+895,Asia,Eastern Asia,"China, Hong Kong SAR",2010,1612911.0,1135800.0
+896,Asia,Eastern Asia,"China, Hong Kong SAR",2015,1698017.0,1108749.0
+897,Asia,Eastern Asia,"China, Hong Kong SAR",2019,1787933.0,1130838.0
+898,Asia,Eastern Asia,"China, Macao SAR",1990,102199.0,89186.0
+899,Asia,Eastern Asia,"China, Macao SAR",1995,114051.0,95892.0
+900,Asia,Eastern Asia,"China, Macao SAR",2000,124672.0,101657.0
+901,Asia,Eastern Asia,"China, Macao SAR",2005,141297.0,121236.0
+902,Asia,Eastern Asia,"China, Macao SAR",2010,153440.0,133918.0
+903,Asia,Eastern Asia,"China, Macao SAR",2015,176698.0,156019.0
+904,Asia,Eastern Asia,"China, Macao SAR",2019,187744.0,165770.0
+905,Asia,Eastern Asia,Dem People's Republic of Korea,1990,14988.0,16024.0
+906,Asia,Eastern Asia,Dem People's Republic of Korea,1995,15500.0,16113.0
+907,Asia,Eastern Asia,Dem People's Republic of Korea,2000,16004.0,16198.0
+908,Asia,Eastern Asia,Dem People's Republic of Korea,2005,18637.0,18507.0
+909,Asia,Eastern Asia,Dem People's Republic of Korea,2010,21262.0,20810.0
+910,Asia,Eastern Asia,Dem People's Republic of Korea,2015,23273.0,23052.0
+911,Asia,Eastern Asia,Dem People's Republic of Korea,2019,23710.0,23498.0
+912,Asia,Eastern Asia,Japan,1990,530377.0,532351.0
+913,Asia,Eastern Asia,Japan,1995,669124.0,668165.0
+914,Asia,Eastern Asia,Japan,2000,867620.0,778076.0
+915,Asia,Eastern Asia,Japan,2005,1042977.0,899883.0
+916,Asia,Eastern Asia,Japan,2010,1121597.0,939721.0
+917,Asia,Eastern Asia,Japan,2015,1094309.0,979298.0
+918,Asia,Eastern Asia,Japan,2019,1219720.0,1090434.0
+919,Asia,Eastern Asia,Mongolia,1990,2972.0,3071.0
+920,Asia,Eastern Asia,Mongolia,1995,3094.0,3559.0
+921,Asia,Eastern Asia,Mongolia,2000,3273.0,4095.0
+922,Asia,Eastern Asia,Mongolia,2005,3604.0,7202.0
+923,Asia,Eastern Asia,Mongolia,2010,3996.0,11515.0
+924,Asia,Eastern Asia,Mongolia,2015,6309.0,12895.0
+925,Asia,Eastern Asia,Mongolia,2019,6704.0,13700.0
+926,Asia,Eastern Asia,Republic of Korea,1990,17979.0,23172.0
+927,Asia,Eastern Asia,Republic of Korea,1995,50659.0,67648.0
+928,Asia,Eastern Asia,Republic of Korea,2000,96380.0,136991.0
+929,Asia,Eastern Asia,Republic of Korea,2005,192606.0,271439.0
+930,Asia,Eastern Asia,Republic of Korea,2010,376759.0,501340.0
+931,Asia,Eastern Asia,Republic of Korea,2015,479000.0,612026.0
+932,Asia,Eastern Asia,Republic of Korea,2019,487790.0,622852.0
+933,Asia,South-Eastern Asia,Brunei Darussalam,1990,30984.0,41416.0
+934,Asia,South-Eastern Asia,Brunei Darussalam,1995,36528.0,47342.0
+935,Asia,South-Eastern Asia,Brunei Darussalam,2015,44107.0,57600.0
+936,Asia,South-Eastern Asia,Brunei Darussalam,2019,47493.0,62032.0
+937,Asia,South-Eastern Asia,Cambodia,1990,16648.0,16034.0
+938,Asia,South-Eastern Asia,Cambodia,1995,44200.0,42280.0
+939,Asia,South-Eastern Asia,Cambodia,2000,71752.0,68527.0
+940,Asia,South-Eastern Asia,Cambodia,2010,37195.0,41524.0
+941,Asia,South-Eastern Asia,Cambodia,2015,32874.0,38150.0
+942,Asia,South-Eastern Asia,Cambodia,2019,34946.0,40563.0
+943,Asia,South-Eastern Asia,Indonesia,1990,189025.0,185926.0
+944,Asia,South-Eastern Asia,Indonesia,1995,157263.0,161707.0
+945,Asia,South-Eastern Asia,Indonesia,2000,125510.0,137489.0
+946,Asia,South-Eastern Asia,Indonesia,2005,111637.0,146749.0
+947,Asia,South-Eastern Asia,Indonesia,2010,117017.0,153336.0
+948,Asia,South-Eastern Asia,Indonesia,2015,126732.0,172565.0
+949,Asia,South-Eastern Asia,Indonesia,2019,132348.0,180225.0
+950,Asia,South-Eastern Asia,Lao People's Democratic Republic,1990,10732.0,11342.0
+951,Asia,South-Eastern Asia,Lao People's Democratic Republic,1995,10201.0,10710.0
+952,Asia,South-Eastern Asia,Lao People's Democratic Republic,2000,8579.0,9181.0
+953,Asia,South-Eastern Asia,Lao People's Democratic Republic,2005,7797.0,8658.0
+954,Asia,South-Eastern Asia,Lao People's Democratic Republic,2010,11423.0,17852.0
+955,Asia,South-Eastern Asia,Lao People's Democratic Republic,2015,15051.0,27048.0
+956,Asia,South-Eastern Asia,Lao People's Democratic Republic,2019,15951.0,28676.0
+957,Asia,South-Eastern Asia,Malaysia,1990,252505.0,356767.0
+958,Asia,South-Eastern Asia,Malaysia,1995,361877.0,481909.0
+959,Asia,South-Eastern Asia,Malaysia,2000,585927.0,751256.0
+960,Asia,South-Eastern Asia,Malaysia,2005,720582.0,1042882.0
+961,Asia,South-Eastern Asia,Malaysia,2010,877612.0,1364505.0
+962,Asia,South-Eastern Asia,Malaysia,2015,1206420.0,1854192.0
+963,Asia,South-Eastern Asia,Malaysia,2019,1252219.0,1948052.0
+964,Asia,South-Eastern Asia,Myanmar,1990,54732.0,65315.0
+965,Asia,South-Eastern Asia,Myanmar,1995,45899.0,53949.0
+966,Asia,South-Eastern Asia,Myanmar,2000,40111.0,45265.0
+967,Asia,South-Eastern Asia,Myanmar,2005,33687.0,38636.0
+968,Asia,South-Eastern Asia,Myanmar,2010,30467.0,36098.0
+969,Asia,South-Eastern Asia,Myanmar,2015,28973.0,34887.0
+970,Asia,South-Eastern Asia,Myanmar,2019,30036.0,36168.0
+971,Asia,South-Eastern Asia,Philippines,1990,58167.0,68445.0
+972,Asia,South-Eastern Asia,Philippines,1995,79799.0,90554.0
+973,Asia,South-Eastern Asia,Philippines,2000,111875.0,116561.0
+974,Asia,South-Eastern Asia,Philippines,2005,89093.0,95759.0
+975,Asia,South-Eastern Asia,Philippines,2010,71911.0,79733.0
+976,Asia,South-Eastern Asia,Philippines,2015,72877.0,81044.0
+977,Asia,South-Eastern Asia,Philippines,2019,75131.0,83592.0
+978,Asia,South-Eastern Asia,Singapore,1990,234415.0,211279.0
+979,Asia,South-Eastern Asia,Singapore,1995,434008.0,359847.0
+980,Asia,South-Eastern Asia,Singapore,2000,683314.0,535551.0
+981,Asia,South-Eastern Asia,Singapore,2005,857778.0,668842.0
+982,Asia,South-Eastern Asia,Singapore,2010,1081159.0,838276.0
+983,Asia,South-Eastern Asia,Singapore,2015,1275024.0,986002.0
+984,Asia,South-Eastern Asia,Singapore,2019,1081893.0,834256.0
+985,Asia,South-Eastern Asia,Thailand,1990,245202.0,283469.0
+986,Asia,South-Eastern Asia,Thailand,1995,383416.0,426257.0
+987,Asia,South-Eastern Asia,Thailand,2000,610064.0,647675.0
+988,Asia,South-Eastern Asia,Thailand,2005,1077141.0,1085904.0
+989,Asia,South-Eastern Asia,Thailand,2010,1599113.0,1624265.0
+990,Asia,South-Eastern Asia,Thailand,2015,1735036.0,1750657.0
+991,Asia,South-Eastern Asia,Thailand,2019,1809244.0,1824954.0
+992,Asia,South-Eastern Asia,Timor-Leste,1990,3986.0,3906.0
+993,Asia,South-Eastern Asia,Timor-Leste,1995,4395.0,4175.0
+994,Asia,South-Eastern Asia,Timor-Leste,2000,4861.0,4466.0
+995,Asia,South-Eastern Asia,Timor-Leste,2005,5040.0,4890.0
+996,Asia,South-Eastern Asia,Timor-Leste,2010,5049.0,5113.0
+997,Asia,South-Eastern Asia,Timor-Leste,2015,2923.0,4439.0
+998,Asia,South-Eastern Asia,Timor-Leste,2019,2882.0,4386.0
+999,Asia,South-Eastern Asia,Viet Nam,1990,12532.0,14866.0
+1000,Asia,South-Eastern Asia,Viet Nam,1995,22403.0,27400.0
+1001,Asia,South-Eastern Asia,Viet Nam,2000,22514.0,30862.0
+1002,Asia,South-Eastern Asia,Viet Nam,2005,19144.0,28839.0
+1003,Asia,South-Eastern Asia,Viet Nam,2010,23921.0,33447.0
+1004,Asia,South-Eastern Asia,Viet Nam,2015,28349.0,39141.0
+1005,Asia,South-Eastern Asia,Viet Nam,2019,29627.0,40922.0
+1006,Asia,Southern Asia,Afghanistan,1990,22072.0,28599.0
+1007,Asia,Southern Asia,Afghanistan,1995,24303.0,31491.0
+1008,Asia,Southern Asia,Afghanistan,2015,178417.0,185734.0
+1009,Asia,Southern Asia,Afghanistan,2019,55243.0,56110.0
+1010,Asia,Southern Asia,Bangladesh,1990,356914.0,384634.0
+1011,Asia,Southern Asia,Bangladesh,1995,384179.0,416300.0
+1012,Asia,Southern Asia,Bangladesh,2000,411453.0,447971.0
+1013,Asia,Southern Asia,Bangladesh,2010,522781.0,577956.0
+1014,Asia,Southern Asia,Bangladesh,2015,540151.0,597983.0
+1015,Asia,Southern Asia,Bangladesh,2019,824329.0,1025820.0
+1016,Asia,Southern Asia,Bhutan,1990,3988.0,17994.0
+1017,Asia,Southern Asia,Bhutan,1995,4686.0,21142.0
+1018,Asia,Southern Asia,Bhutan,2000,5383.0,24290.0
+1019,Asia,Southern Asia,Bhutan,2005,6835.0,30339.0
+1020,Asia,Southern Asia,Bhutan,2010,8287.0,36421.0
+1021,Asia,Southern Asia,Bhutan,2015,7080.0,40109.0
+1022,Asia,Southern Asia,Bhutan,2019,7374.0,41803.0
+1023,Asia,Southern Asia,India,1990,3504532.0,3842953.0
+1024,Asia,Southern Asia,India,1995,3312803.0,3583300.0
+1025,Asia,Southern Asia,India,2000,3078733.0,3280478.0
+1026,Asia,Southern Asia,India,2005,2847188.0,3020245.0
+1027,Asia,Southern Asia,India,2010,2634068.0,2779510.0
+1028,Asia,Southern Asia,India,2015,2541447.0,2670344.0
+1029,Asia,Southern Asia,India,2019,2497109.0,2628923.0
+1030,Asia,Southern Asia,Iran (Islamic Republic of),1990,498757.0,667772.0
+1031,Asia,Southern Asia,Iran (Islamic Republic of),1995,362357.0,485156.0
+1032,Asia,Southern Asia,Iran (Islamic Republic of),2000,235372.0,315639.0
+1033,Asia,Southern Asia,Iran (Islamic Republic of),2005,49861.0,67684.0
+1034,Asia,Southern Asia,Iran (Islamic Republic of),2010,50383.0,86747.0
+1035,Asia,Southern Asia,Iran (Islamic Republic of),2015,50383.0,85376.0
+1036,Asia,Southern Asia,Iran (Islamic Republic of),2019,49563.0,83992.0
+1037,Asia,Southern Asia,Maldives,1990,3798.0,4637.0
+1038,Asia,Southern Asia,Maldives,1995,8925.0,8901.0
+1039,Asia,Southern Asia,Maldives,2000,11704.0,14317.0
+1040,Asia,Southern Asia,Maldives,2005,17072.0,25691.0
+1041,Asia,Southern Asia,Maldives,2010,11627.0,39780.0
+1042,Asia,Southern Asia,Maldives,2015,6190.0,53868.0
+1043,Asia,Southern Asia,Maldives,2019,6669.0,58040.0
+1044,Asia,Southern Asia,Nepal,1990,290714.0,120316.0
+1045,Asia,Southern Asia,Nepal,1995,451329.0,200582.0
+1046,Asia,Southern Asia,Nepal,2000,456936.0,223753.0
+1047,Asia,Southern Asia,Nepal,2005,425783.0,218868.0
+1048,Asia,Southern Asia,Nepal,2010,378772.0,177257.0
+1049,Asia,Southern Asia,Nepal,2015,347545.0,149157.0
+1050,Asia,Southern Asia,Nepal,2019,336921.0,141581.0
+1051,Asia,Southern Asia,Pakistan,1990,1290261.0,1538565.0
+1052,Asia,Southern Asia,Pakistan,1995,1085259.0,1288476.0
+1053,Asia,Southern Asia,Pakistan,2000,967256.0,1141346.0
+1054,Asia,Southern Asia,Pakistan,2005,920254.0,1084935.0
+1055,Asia,Southern Asia,Pakistan,2010,893170.0,1056700.0
+1056,Asia,Southern Asia,Pakistan,2015,723217.0,992332.0
+1057,Asia,Southern Asia,Pakistan,2019,671954.0,921994.0
+1058,Asia,Southern Asia,Sri Lanka,1990,17430.0,22505.0
+1059,Asia,Southern Asia,Sri Lanka,1995,17432.0,21768.0
+1060,Asia,Southern Asia,Sri Lanka,2000,17412.0,21061.0
+1061,Asia,Southern Asia,Sri Lanka,2005,17368.0,20429.0
+1062,Asia,Southern Asia,Sri Lanka,2010,17290.0,19771.0
+1063,Asia,Southern Asia,Sri Lanka,2015,17930.0,19717.0
+1064,Asia,Southern Asia,Sri Lanka,2019,18048.0,19873.0
+1065,Europe,Eastern Europe,Belarus,1990,676820.0,571705.0
+1066,Europe,Eastern Europe,Belarus,1995,642765.0,542882.0
+1067,Europe,Eastern Europe,Belarus,2010,590734.0,498905.0
+1068,Europe,Eastern Europe,Belarus,2015,586674.0,495450.0
+1069,Europe,Eastern Europe,Belarus,2019,579362.0,489265.0
+1070,Europe,Eastern Europe,Bulgaria,1990,10899.0,7764.0
+1071,Europe,Eastern Europe,Bulgaria,1995,17288.0,12352.0
+1072,Europe,Eastern Europe,Bulgaria,2000,23620.0,16916.0
+1073,Europe,Eastern Europe,Bulgaria,2010,40776.0,32114.0
+1074,Europe,Eastern Europe,Bulgaria,2015,62714.0,58516.0
+1075,Europe,Eastern Europe,Bulgaria,2019,83525.0,79869.0
+1076,Europe,Eastern Europe,Czechia,1990,52894.0,57170.0
+1077,Europe,Eastern Europe,Czechia,1995,77137.0,87957.0
+1078,Europe,Eastern Europe,Czechia,2000,101381.0,118743.0
+1079,Europe,Eastern Europe,Czechia,2005,140502.0,180775.0
+1080,Europe,Eastern Europe,Czechia,2010,160528.0,231839.0
+1081,Europe,Eastern Europe,Czechia,2015,175257.0,234915.0
+1082,Europe,Eastern Europe,Czechia,2019,196470.0,261979.0
+1083,Europe,Eastern Europe,Hungary,1990,184900.0,150860.0
+1084,Europe,Eastern Europe,Hungary,1995,169728.0,142724.0
+1085,Europe,Eastern Europe,Hungary,2000,154491.0,134581.0
+1086,Europe,Eastern Europe,Hungary,2005,187432.0,169634.0
+1087,Europe,Eastern Europe,Hungary,2010,220344.0,204679.0
+1088,Europe,Eastern Europe,Hungary,2015,226034.0,226492.0
+1089,Europe,Eastern Europe,Hungary,2019,244458.0,244366.0
+1090,Europe,Eastern Europe,Poland,1990,614292.0,457805.0
+1091,Europe,Eastern Europe,Poland,1995,533419.0,383615.0
+1092,Europe,Eastern Europe,Poland,2000,463291.0,321187.0
+1093,Europe,Eastern Europe,Poland,2005,411476.0,286490.0
+1094,Europe,Eastern Europe,Poland,2010,375593.0,258170.0
+1095,Europe,Eastern Europe,Poland,2015,355056.0,255654.0
+1096,Europe,Eastern Europe,Poland,2019,361589.0,285241.0
+1097,Europe,Eastern Europe,Republic of Moldova,1990,298156.0,228872.0
+1098,Europe,Eastern Europe,Republic of Moldova,1995,206444.0,149255.0
+1099,Europe,Eastern Europe,Republic of Moldova,2000,142938.0,97124.0
+1100,Europe,Eastern Europe,Republic of Moldova,2005,100533.0,65233.0
+1101,Europe,Eastern Europe,Republic of Moldova,2010,74877.0,49716.0
+1102,Europe,Eastern Europe,Republic of Moldova,2015,60408.0,40854.0
+1103,Europe,Eastern Europe,Republic of Moldova,2019,59402.0,40270.0
+1104,Europe,Eastern Europe,Romania,1990,75215.0,54793.0
+1105,Europe,Eastern Europe,Romania,1995,70517.0,55014.0
+1106,Europe,Eastern Europe,Romania,2000,65685.0,55269.0
+1107,Europe,Eastern Europe,Romania,2005,69816.0,63102.0
+1108,Europe,Eastern Europe,Romania,2010,81817.0,78246.0
+1109,Europe,Eastern Europe,Romania,2015,128909.0,140127.0
+1110,Europe,Eastern Europe,Romania,2019,205866.0,238997.0
+1111,Europe,Eastern Europe,Russian Federation,1990,5852121.0,5638665.0
+1112,Europe,Eastern Europe,Russian Federation,1995,5990660.0,5907898.0
+1113,Europe,Eastern Europe,Russian Federation,2000,5909616.0,5965130.0
+1114,Europe,Eastern Europe,Russian Federation,2005,5855982.0,5794393.0
+1115,Europe,Eastern Europe,Russian Federation,2010,5678151.0,5507955.0
+1116,Europe,Eastern Europe,Russian Federation,2015,5925792.0,5708674.0
+1117,Europe,Eastern Europe,Russian Federation,2019,5924389.0,5707332.0
+1118,Europe,Eastern Europe,Slovakia,1990,23044.0,18062.0
+1119,Europe,Eastern Europe,Slovakia,1995,38713.0,30310.0
+1120,Europe,Eastern Europe,Slovakia,2000,64898.0,50712.0
+1121,Europe,Eastern Europe,Slovakia,2005,71633.0,58026.0
+1122,Europe,Eastern Europe,Slovakia,2010,79018.0,66274.0
+1123,Europe,Eastern Europe,Slovakia,2015,88263.0,88197.0
+1124,Europe,Eastern Europe,Slovakia,2019,91585.0,95099.0
+1125,Europe,Eastern Europe,Ukraine,1990,3687588.0,2791298.0
+1126,Europe,Eastern Europe,Ukraine,1995,3290851.0,2480926.0
+1127,Europe,Eastern Europe,Ukraine,2000,2934311.0,2200832.0
+1128,Europe,Eastern Europe,Ukraine,2005,2677457.0,2014696.0
+1129,Europe,Eastern Europe,Ukraine,2010,2551167.0,1925869.0
+1130,Europe,Eastern Europe,Ukraine,2015,2556162.0,1934862.0
+1131,Europe,Eastern Europe,Ukraine,2019,2581706.0,1954215.0
+1132,Europe,Northern Europe,Channel Islands,1990,31989.0,28410.0
+1133,Europe,Northern Europe,Channel Islands,1995,31397.0,27885.0
+1134,Europe,Northern Europe,Channel Islands,2010,39056.0,35572.0
+1135,Europe,Northern Europe,Channel Islands,2015,41335.0,37839.0
+1136,Europe,Northern Europe,Channel Islands,2019,42099.0,38540.0
+1137,Europe,Northern Europe,Denmark,1990,119862.0,113163.0
+1138,Europe,Northern Europe,Denmark,1995,154123.0,145023.0
+1139,Europe,Northern Europe,Denmark,2000,188388.0,176883.0
+1140,Europe,Northern Europe,Denmark,2010,252345.0,234813.0
+1141,Europe,Northern Europe,Denmark,2015,296862.0,282237.0
+1142,Europe,Northern Europe,Denmark,2019,356645.0,346975.0
+1143,Europe,Northern Europe,Estonia,1990,210008.0,171347.0
+1144,Europe,Northern Europe,Estonia,1995,179219.0,135958.0
+1145,Europe,Northern Europe,Estonia,2000,148430.0,100569.0
+1146,Europe,Northern Europe,Estonia,2005,139219.0,93967.0
+1147,Europe,Northern Europe,Estonia,2010,130202.0,87552.0
+1148,Europe,Northern Europe,Estonia,2015,114597.0,79916.0
+1149,Europe,Northern Europe,Estonia,2019,109570.0,80471.0
+1150,Europe,Northern Europe,Faroe Islands,1990,1779.0,2351.0
+1151,Europe,Northern Europe,Faroe Islands,1995,1271.0,1516.0
+1152,Europe,Northern Europe,Faroe Islands,2000,1584.0,1833.0
+1153,Europe,Northern Europe,Faroe Islands,2005,2027.0,2338.0
+1154,Europe,Northern Europe,Faroe Islands,2010,2274.0,2563.0
+1155,Europe,Northern Europe,Faroe Islands,2015,2548.0,2638.0
+1156,Europe,Northern Europe,Faroe Islands,2019,2955.0,3089.0
+1157,Europe,Northern Europe,Finland,1990,30392.0,30328.0
+1158,Europe,Northern Europe,Finland,1995,48990.0,48096.0
+1159,Europe,Northern Europe,Finland,2000,67510.0,65861.0
+1160,Europe,Northern Europe,Finland,2005,93803.0,93719.0
+1161,Europe,Northern Europe,Finland,2010,109999.0,110568.0
+1162,Europe,Northern Europe,Finland,2015,150986.0,153730.0
+1163,Europe,Northern Europe,Finland,2019,181355.0,188222.0
+1164,Europe,Northern Europe,Iceland,1990,5316.0,4226.0
+1165,Europe,Northern Europe,Iceland,1995,6979.0,5693.0
+1166,Europe,Northern Europe,Iceland,2000,8645.0,7159.0
+1167,Europe,Northern Europe,Iceland,2005,13026.0,12342.0
+1168,Europe,Northern Europe,Iceland,2010,17409.0,17531.0
+1169,Europe,Northern Europe,Iceland,2015,19662.0,18679.0
+1170,Europe,Northern Europe,Iceland,2019,24288.0,26656.0
+1171,Europe,Northern Europe,Ireland,1990,115599.0,111751.0
+1172,Europe,Northern Europe,Ireland,1995,117962.0,107095.0
+1173,Europe,Northern Europe,Ireland,2000,175767.0,170717.0
+1174,Europe,Northern Europe,Ireland,2005,276908.0,307085.0
+1175,Europe,Northern Europe,Ireland,2010,367555.0,357783.0
+1176,Europe,Northern Europe,Ireland,2015,380284.0,373657.0
+1177,Europe,Northern Europe,Ireland,2019,416234.0,411498.0
+1178,Europe,Northern Europe,Isle of Man,1990,17531.0,15609.0
+1179,Europe,Northern Europe,Isle of Man,1995,18459.0,16780.0
+1180,Europe,Northern Europe,Isle of Man,2000,19386.0,17951.0
+1181,Europe,Northern Europe,Isle of Man,2005,20217.0,19379.0
+1182,Europe,Northern Europe,Isle of Man,2010,20898.0,20479.0
+1183,Europe,Northern Europe,Isle of Man,2015,18621.0,18106.0
+1184,Europe,Northern Europe,Isle of Man,2019,18892.0,18375.0
+1185,Europe,Northern Europe,Latvia,1990,355183.0,290778.0
+1186,Europe,Northern Europe,Latvia,1995,303854.0,234179.0
+1187,Europe,Northern Europe,Latvia,2000,252521.0,177579.0
+1188,Europe,Northern Europe,Latvia,2005,221960.0,154690.0
+1189,Europe,Northern Europe,Latvia,2010,189094.0,124614.0
+1190,Europe,Northern Europe,Latvia,2015,161384.0,103964.0
+1191,Europe,Northern Europe,Latvia,2019,143849.0,93353.0
+1192,Europe,Northern Europe,Lithuania,1990,177391.0,158432.0
+1193,Europe,Northern Europe,Lithuania,1995,137568.0,122174.0
+1194,Europe,Northern Europe,Lithuania,2000,107949.0,95491.0
+1195,Europe,Northern Europe,Lithuania,2005,103896.0,91222.0
+1196,Europe,Northern Europe,Lithuania,2010,90998.0,69285.0
+1197,Europe,Northern Europe,Lithuania,2015,78362.0,57208.0
+1198,Europe,Northern Europe,Lithuania,2019,67797.0,49042.0
+1199,Europe,Northern Europe,Norway,1990,89988.0,95347.0
+1200,Europe,Northern Europe,Norway,1995,111224.0,110953.0
+1201,Europe,Northern Europe,Norway,2000,139806.0,135681.0
+1202,Europe,Northern Europe,Norway,2005,176751.0,166630.0
+1203,Europe,Northern Europe,Norway,2010,248549.0,255941.0
+1204,Europe,Northern Europe,Norway,2015,344460.0,372828.0
+1205,Europe,Northern Europe,Norway,2019,401329.0,431055.0
+1206,Europe,Northern Europe,Sweden,1990,368112.0,344337.0
+1207,Europe,Northern Europe,Sweden,1995,440173.0,405299.0
+1208,Europe,Northern Europe,Sweden,2000,474792.0,431343.0
+1209,Europe,Northern Europe,Sweden,2005,533677.0,484593.0
+1210,Europe,Northern Europe,Sweden,2010,654453.0,613411.0
+1211,Europe,Northern Europe,Sweden,2015,782682.0,756381.0
+1212,Europe,Northern Europe,Sweden,2019,923329.0,922546.0
+1213,Europe,Northern Europe,United Kingdom,1990,1868433.0,1725811.0
+1214,Europe,Northern Europe,United Kingdom,1995,2124982.0,1921815.0
+1215,Europe,Northern Europe,United Kingdom,2000,2422938.0,2144660.0
+1216,Europe,Northern Europe,United Kingdom,2005,2992569.0,2695376.0
+1217,Europe,Northern Europe,United Kingdom,2010,3522705.0,3304058.0
+1218,Europe,Northern Europe,United Kingdom,2015,4200160.0,3836838.0
+1219,Europe,Northern Europe,United Kingdom,2019,4757574.0,4369177.0
+1220,Europe,Southern Europe,Albania,1990,31240.0,27463.0
+1221,Europe,Southern Europe,Albania,1995,33564.0,29888.0
+1222,Europe,Southern Europe,Albania,2010,22820.0,24119.0
+1223,Europe,Southern Europe,Albania,2015,22493.0,23773.0
+1224,Europe,Southern Europe,Albania,2019,21249.0,22462.0
+1225,Europe,Southern Europe,Andorra,1990,17698.0,20353.0
+1226,Europe,Southern Europe,Andorra,1995,18624.0,20946.0
+1227,Europe,Southern Europe,Andorra,2000,19551.0,21536.0
+1228,Europe,Southern Europe,Andorra,2010,22996.0,25729.0
+1229,Europe,Southern Europe,Andorra,2015,18857.0,20239.0
+1230,Europe,Southern Europe,Andorra,2019,19967.0,21746.0
+1231,Europe,Southern Europe,Bosnia and Herzegovina,1990,28628.0,25914.0
+1232,Europe,Southern Europe,Bosnia and Herzegovina,1995,35672.0,32578.0
+1233,Europe,Southern Europe,Bosnia and Herzegovina,2000,42719.0,39240.0
+1234,Europe,Southern Europe,Bosnia and Herzegovina,2005,24386.0,22132.0
+1235,Europe,Southern Europe,Bosnia and Herzegovina,2010,19772.0,18069.0
+1236,Europe,Southern Europe,Bosnia and Herzegovina,2015,19656.0,17965.0
+1237,Europe,Southern Europe,Bosnia and Herzegovina,2019,18238.0,16615.0
+1238,Europe,Southern Europe,Croatia,1990,199120.0,172363.0
+1239,Europe,Southern Europe,Croatia,1995,300048.0,263417.0
+1240,Europe,Southern Europe,Croatia,2000,254650.0,225185.0
+1241,Europe,Southern Europe,Croatia,2005,274810.0,241608.0
+1242,Europe,Southern Europe,Croatia,2010,294937.0,258024.0
+1243,Europe,Southern Europe,Croatia,2015,298161.0,257308.0
+1244,Europe,Southern Europe,Croatia,2019,276093.0,236763.0
+1245,Europe,Southern Europe,Gibraltar,1990,3648.0,3790.0
+1246,Europe,Southern Europe,Gibraltar,1995,3606.0,3509.0
+1247,Europe,Southern Europe,Gibraltar,2000,3563.0,3228.0
+1248,Europe,Southern Europe,Gibraltar,2005,3841.0,3651.0
+1249,Europe,Southern Europe,Gibraltar,2010,4118.0,4074.0
+1250,Europe,Southern Europe,Gibraltar,2015,4337.0,4404.0
+1251,Europe,Southern Europe,Gibraltar,2019,4380.0,4447.0
+1252,Europe,Southern Europe,Greece,1990,266386.0,284872.0
+1253,Europe,Southern Europe,Greece,1995,320526.0,304625.0
+1254,Europe,Southern Europe,Greece,2000,385754.0,323571.0
+1255,Europe,Southern Europe,Greece,2005,413835.0,347724.0
+1256,Europe,Southern Europe,Greece,2010,459644.0,387104.0
+1257,Europe,Southern Europe,Greece,2015,454556.0,343514.0
+1258,Europe,Southern Europe,Greece,2019,443059.0,328224.0
+1259,Europe,Southern Europe,Italy,1990,748912.0,596186.0
+1260,Europe,Southern Europe,Italy,1995,873658.0,703234.0
+1261,Europe,Southern Europe,Italy,2000,998410.0,810282.0
+1262,Europe,Southern Europe,Italy,2005,1929608.0,1591795.0
+1263,Europe,Southern Europe,Italy,2010,2842745.0,2349675.0
+1264,Europe,Southern Europe,Italy,2015,2878721.0,2328266.0
+1265,Europe,Southern Europe,Italy,2019,3061112.0,2581441.0
+1266,Europe,Southern Europe,Malta,1990,7980.0,6940.0
+1267,Europe,Southern Europe,Malta,1995,9252.0,8271.0
+1268,Europe,Southern Europe,Malta,2000,11080.0,10166.0
+1269,Europe,Southern Europe,Malta,2005,12402.0,11733.0
+1270,Europe,Southern Europe,Malta,2010,15612.0,16568.0
+1271,Europe,Southern Europe,Malta,2015,23522.0,26497.0
+1272,Europe,Southern Europe,Malta,2019,37703.0,43015.0
+1273,Europe,Southern Europe,Montenegro,2010,45473.0,30642.0
+1274,Europe,Southern Europe,Montenegro,2015,41434.0,26558.0
+1275,Europe,Southern Europe,Montenegro,2019,40882.0,26347.0
+1276,Europe,Southern Europe,North Macedonia,1990,28349.0,20267.0
+1277,Europe,Southern Europe,North Macedonia,1995,29102.0,20806.0
+1278,Europe,Southern Europe,North Macedonia,2000,32053.0,22916.0
+1279,Europe,Southern Europe,North Macedonia,2005,32940.0,23574.0
+1280,Europe,Southern Europe,North Macedonia,2010,32825.0,25231.0
+1281,Europe,Southern Europe,North Macedonia,2015,35453.0,25950.0
+1282,Europe,Southern Europe,North Macedonia,2019,35568.0,26038.0
+1283,Europe,Southern Europe,Portugal,1990,147943.0,141135.0
+1284,Europe,Southern Europe,Portugal,1995,188129.0,183832.0
+1285,Europe,Southern Europe,Portugal,2000,235365.0,234702.0
+1286,Europe,Southern Europe,Portugal,2005,300729.0,293142.0
+1287,Europe,Southern Europe,Portugal,2010,315585.0,303580.0
+1288,Europe,Southern Europe,Portugal,2015,376153.0,325732.0
+1289,Europe,Southern Europe,Portugal,2019,384827.0,337590.0
+1290,Europe,Southern Europe,San Marino,1990,1477.0,1631.0
+1291,Europe,Southern Europe,San Marino,1995,1611.0,1841.0
+1292,Europe,Southern Europe,San Marino,2000,1726.0,2058.0
+1293,Europe,Southern Europe,San Marino,2005,1779.0,2186.0
+1294,Europe,Southern Europe,San Marino,2010,1935.0,2617.0
+1295,Europe,Southern Europe,San Marino,2015,2086.0,2699.0
+1296,Europe,Southern Europe,San Marino,2019,2286.0,2782.0
+1297,Europe,Southern Europe,Serbia,1990,52465.0,46647.0
+1298,Europe,Southern Europe,Serbia,1995,351965.0,307232.0
+1299,Europe,Southern Europe,Serbia,2000,494679.0,409389.0
+1300,Europe,Southern Europe,Serbia,2005,466347.0,377401.0
+1301,Europe,Southern Europe,Serbia,2010,460594.0,364141.0
+1302,Europe,Southern Europe,Serbia,2015,451434.0,354689.0
+1303,Europe,Southern Europe,Serbia,2019,458205.0,360731.0
+1304,Europe,Southern Europe,Slovenia,1990,86732.0,87570.0
+1305,Europe,Southern Europe,Slovenia,1995,82330.0,88228.0
+1306,Europe,Southern Europe,Slovenia,2000,97498.0,110253.0
+1307,Europe,Southern Europe,Slovenia,2005,97100.0,112899.0
+1308,Europe,Southern Europe,Slovenia,2010,101267.0,132001.0
+1309,Europe,Southern Europe,Slovenia,2015,98378.0,126470.0
+1310,Europe,Southern Europe,Slovenia,2019,99911.0,127899.0
+1311,Europe,Southern Europe,Spain,1990,399420.0,360260.0
+1312,Europe,Southern Europe,Spain,1995,483425.0,461205.0
+1313,Europe,Southern Europe,Spain,2000,763685.0,776271.0
+1314,Europe,Southern Europe,Spain,2005,1829004.0,1972385.0
+1315,Europe,Southern Europe,Spain,2010,2879863.0,3042983.0
+1316,Europe,Southern Europe,Spain,2015,2850025.0,2705655.0
+1317,Europe,Southern Europe,Spain,2019,3024727.0,2733744.0
+1318,Europe,Western Europe,Austria,1990,421712.0,363023.0
+1319,Europe,Western Europe,Austria,1995,467991.0,417306.0
+1320,Europe,Western Europe,Austria,2000,514276.0,471587.0
+1321,Europe,Western Europe,Austria,2010,661981.0,600813.0
+1322,Europe,Western Europe,Austria,2015,769980.0,706958.0
+1323,Europe,Western Europe,Austria,2019,896112.0,855142.0
+1324,Europe,Western Europe,Belgium,1990,591694.0,631699.0
+1325,Europe,Western Europe,Belgium,1995,581905.0,624579.0
+1326,Europe,Western Europe,Belgium,2000,563874.0,585924.0
+1327,Europe,Western Europe,Belgium,2010,709810.0,666192.0
+1328,Europe,Western Europe,Belgium,2015,827920.0,789027.0
+1329,Europe,Western Europe,Belgium,2019,909531.0,884605.0
+1330,Europe,Western Europe,France,1990,2540424.0,2536708.0
+1331,Europe,Western Europe,France,1995,2666673.0,2574668.0
+1332,Europe,Western Europe,France,2000,2792929.0,2612626.0
+1333,Europe,Western Europe,France,2005,2756797.0,2605333.0
+1334,Europe,Western Europe,France,2010,3116375.0,2804711.0
+1335,Europe,Western Europe,France,2015,3338737.0,2994228.0
+1336,Europe,Western Europe,France,2019,3542052.0,3161352.0
+1337,Europe,Western Europe,Germany,1990,2484601.0,3064167.0
+1338,Europe,Western Europe,Germany,1995,3386864.0,3664889.0
+1339,Europe,Western Europe,Germany,2000,4289062.0,4265616.0
+1340,Europe,Western Europe,Germany,2005,4605040.0,4524492.0
+1341,Europe,Western Europe,Germany,2010,4862241.0,4717032.0
+1342,Europe,Western Europe,Germany,2015,5078151.0,4902944.0
+1343,Europe,Western Europe,Germany,2019,6087845.0,6629563.0
+1344,Europe,Western Europe,Liechtenstein,1990,4930.0,5947.0
+1345,Europe,Western Europe,Liechtenstein,1995,6203.0,7047.0
+1346,Europe,Western Europe,Liechtenstein,2000,7442.0,7947.0
+1347,Europe,Western Europe,Liechtenstein,2005,9266.0,9258.0
+1348,Europe,Western Europe,Liechtenstein,2010,11136.0,10549.0
+1349,Europe,Western Europe,Liechtenstein,2015,11786.0,11206.0
+1350,Europe,Western Europe,Liechtenstein,2019,12605.0,11978.0
+1351,Europe,Western Europe,Luxembourg,1990,57320.0,55693.0
+1352,Europe,Western Europe,Luxembourg,1995,63461.0,61954.0
+1353,Europe,Western Europe,Luxembourg,2000,70077.0,68974.0
+1354,Europe,Western Europe,Luxembourg,2005,75389.0,74667.0
+1355,Europe,Western Europe,Luxembourg,2010,81471.0,81135.0
+1356,Europe,Western Europe,Luxembourg,2015,122384.0,125690.0
+1357,Europe,Western Europe,Luxembourg,2019,141735.0,147282.0
+1358,Europe,Western Europe,Monaco,1990,6143.0,5422.0
+1359,Europe,Western Europe,Monaco,1995,6106.0,5475.0
+1360,Europe,Western Europe,Monaco,2000,6075.0,5539.0
+1361,Europe,Western Europe,Monaco,2005,5820.0,5329.0
+1362,Europe,Western Europe,Monaco,2010,5651.0,5191.0
+1363,Europe,Western Europe,Monaco,2015,6951.0,6501.0
+1364,Europe,Western Europe,Monaco,2019,7094.0,6630.0
+1365,Europe,Western Europe,Netherlands,1990,581813.0,581256.0
+1366,Europe,Western Europe,Netherlands,1995,666447.0,652885.0
+1367,Europe,Western Europe,Netherlands,2000,775840.0,745209.0
+1368,Europe,Western Europe,Netherlands,2005,867880.0,811898.0
+1369,Europe,Western Europe,Netherlands,2010,926417.0,852106.0
+1370,Europe,Western Europe,Netherlands,2015,1017792.0,922588.0
+1371,Europe,Western Europe,Netherlands,2019,1150833.0,1069896.0
+1372,Europe,Western Europe,Switzerland,1990,601800.0,581804.0
+1373,Europe,Western Europe,Switzerland,1995,628722.0,663959.0
+1374,Europe,Western Europe,Switzerland,2000,673973.0,771626.0
+1375,Europe,Western Europe,Switzerland,2005,821387.0,849863.0
+1376,Europe,Western Europe,Switzerland,2010,989300.0,920652.0
+1377,Europe,Western Europe,Switzerland,2015,1144351.0,1084206.0
+1378,Europe,Western Europe,Switzerland,2019,1206755.0,1153765.0
+1379,Oceania,Australia / New Zealand,Australia,1990,1924696.0,1994563.0
+1380,Oceania,Australia / New Zealand,Australia,1995,2027719.0,2060681.0
+1381,Oceania,Australia / New Zealand,Australia,2010,2880652.0,2845598.0
+1382,Oceania,Australia / New Zealand,Australia,2015,3284221.0,3236409.0
+1383,Oceania,Australia / New Zealand,Australia,2019,3699084.0,3615096.0
+1384,Oceania,Australia / New Zealand,New Zealand,1990,250277.0,247899.0
+1385,Oceania,Australia / New Zealand,New Zealand,1995,281713.0,271307.0
+1386,Oceania,Australia / New Zealand,New Zealand,2000,328998.0,311202.0
+1387,Oceania,Australia / New Zealand,New Zealand,2010,461440.0,433771.0
+1388,Oceania,Australia / New Zealand,New Zealand,2015,508407.0,476111.0
+1389,Oceania,Australia / New Zealand,New Zealand,2019,522589.0,489394.0
+1390,Oceania,Melanesia,Fiji,1990,5675.0,5980.0
+1391,Oceania,Melanesia,Fiji,1995,5518.0,5878.0
+1392,Oceania,Melanesia,Fiji,2010,5411.0,6216.0
+1393,Oceania,Melanesia,Fiji,2015,5510.0,6465.0
+1394,Oceania,Melanesia,Fiji,2019,5617.0,6601.0
+1395,Oceania,Melanesia,New Caledonia,1990,12796.0,16500.0
+1396,Oceania,Melanesia,New Caledonia,1995,15058.0,18892.0
+1397,Oceania,Melanesia,New Caledonia,2000,17317.0,21294.0
+1398,Oceania,Melanesia,New Caledonia,2010,21397.0,25842.0
+1399,Oceania,Melanesia,New Caledonia,2015,24235.0,28470.0
+1400,Oceania,Melanesia,New Caledonia,2019,25610.0,29894.0
+1401,Oceania,Melanesia,Papua New Guinea,1990,13620.0,18427.0
+1402,Oceania,Melanesia,Papua New Guinea,1995,12863.0,18946.0
+1403,Oceania,Melanesia,Papua New Guinea,2000,9903.0,15105.0
+1404,Oceania,Melanesia,Papua New Guinea,2005,11676.0,17103.0
+1405,Oceania,Melanesia,Papua New Guinea,2010,11547.0,17757.0
+1406,Oceania,Melanesia,Papua New Guinea,2015,11803.0,18028.0
+1407,Oceania,Melanesia,Papua New Guinea,2019,11852.0,18233.0
+1408,Oceania,Melanesia,Solomon Islands,1990,1727.0,2198.0
+1409,Oceania,Melanesia,Solomon Islands,1995,1709.0,2179.0
+1410,Oceania,Melanesia,Solomon Islands,2000,1631.0,2080.0
+1411,Oceania,Melanesia,Solomon Islands,2005,1239.0,1597.0
+1412,Oceania,Melanesia,Solomon Islands,2010,937.0,1211.0
+1413,Oceania,Melanesia,Solomon Islands,2015,868.0,1137.0
+1414,Oceania,Melanesia,Solomon Islands,2019,842.0,1114.0
+1415,Oceania,Melanesia,Vanuatu,1990,711.0,854.0
+1416,Oceania,Melanesia,Vanuatu,1995,683.0,768.0
+1417,Oceania,Melanesia,Vanuatu,2000,673.0,688.0
+1418,Oceania,Melanesia,Vanuatu,2005,907.0,903.0
+1419,Oceania,Melanesia,Vanuatu,2010,1096.0,1095.0
+1420,Oceania,Melanesia,Vanuatu,2015,1142.0,1136.0
+1421,Oceania,Melanesia,Vanuatu,2019,1158.0,1157.0
+1422,Oceania,Micronesia,Guam,1990,29203.0,37917.0
+1423,Oceania,Micronesia,Guam,1995,31708.0,37547.0
+1424,Oceania,Micronesia,Guam,2010,35294.0,37656.0
+1425,Oceania,Micronesia,Guam,2015,35633.0,37969.0
+1426,Oceania,Micronesia,Guam,2019,37392.0,39845.0
+1427,Oceania,Micronesia,Kiribati,1990,865.0,826.0
+1428,Oceania,Micronesia,Kiribati,1995,876.0,870.0
+1429,Oceania,Micronesia,Kiribati,2000,888.0,916.0
+1430,Oceania,Micronesia,Kiribati,2010,1146.0,1261.0
+1431,Oceania,Micronesia,Kiribati,2015,1161.0,1283.0
+1432,Oceania,Micronesia,Kiribati,2019,1203.0,1328.0
+1433,Oceania,Micronesia,Marshall Islands,1990,395.0,627.0
+1434,Oceania,Micronesia,Marshall Islands,1995,509.0,796.0
+1435,Oceania,Micronesia,Marshall Islands,2000,655.0,1029.0
+1436,Oceania,Micronesia,Marshall Islands,2005,838.0,1310.0
+1437,Oceania,Micronesia,Marshall Islands,2010,1073.0,1676.0
+1438,Oceania,Micronesia,Marshall Islands,2015,1145.0,1779.0
+1439,Oceania,Micronesia,Marshall Islands,2019,1149.0,1786.0
+1440,Oceania,Micronesia,Micronesia (Fed States of),1990,525.0,698.0
+1441,Oceania,Micronesia,Micronesia (Fed States of),1995,406.0,704.0
+1442,Oceania,Micronesia,Micronesia (Fed States of),2000,458.0,579.0
+1443,Oceania,Micronesia,Micronesia (Fed States of),2005,444.0,534.0
+1444,Oceania,Micronesia,Micronesia (Fed States of),2010,431.0,520.0
+1445,Oceania,Micronesia,Micronesia (Fed States of),2015,423.0,514.0
+1446,Oceania,Micronesia,Micronesia (Fed States of),2019,427.0,526.0
+1447,Oceania,Micronesia,Nauru,1990,1199.0,1399.0
+1448,Oceania,Micronesia,Nauru,1995,1106.0,1294.0
+1449,Oceania,Micronesia,Nauru,2000,1016.0,1190.0
+1450,Oceania,Micronesia,Nauru,2005,956.0,1119.0
+1451,Oceania,Micronesia,Nauru,2010,249.0,437.0
+1452,Oceania,Micronesia,Nauru,2015,389.0,715.0
+1453,Oceania,Micronesia,Nauru,2019,430.0,809.0
+1454,Oceania,Micronesia,Northern Mariana Islands,1990,11606.0,13892.0
+1455,Oceania,Micronesia,Northern Mariana Islands,1995,15725.0,15381.0
+1456,Oceania,Micronesia,Northern Mariana Islands,2000,21750.0,16863.0
+1457,Oceania,Micronesia,Northern Mariana Islands,2005,20525.0,15524.0
+1458,Oceania,Micronesia,Northern Mariana Islands,2010,13172.0,9958.0
+1459,Oceania,Micronesia,Northern Mariana Islands,2015,11852.0,8863.0
+1460,Oceania,Micronesia,Northern Mariana Islands,2019,11940.0,8929.0
+1461,Oceania,Micronesia,Palau,1990,960.0,1735.0
+1462,Oceania,Micronesia,Palau,1995,1861.0,2707.0
+1463,Oceania,Micronesia,Palau,2000,2295.0,3419.0
+1464,Oceania,Micronesia,Palau,2005,2312.0,3056.0
+1465,Oceania,Micronesia,Palau,2010,2230.0,3111.0
+1466,Oceania,Micronesia,Palau,2015,1896.0,2904.0
+1467,Oceania,Micronesia,Palau,2019,2141.0,2785.0
+1468,Oceania,Polynesia,American Samoa,1990,9723.0,10763.0
+1469,Oceania,Polynesia,American Samoa,1995,10672.0,11629.0
+1470,Oceania,Polynesia,American Samoa,2010,11177.0,11814.0
+1471,Oceania,Polynesia,American Samoa,2015,11228.0,11716.0
+1472,Oceania,Polynesia,American Samoa,2019,11237.0,11728.0
+1473,Oceania,Polynesia,Cook Islands,1990,1121.0,1390.0
+1474,Oceania,Polynesia,Cook Islands,1995,1164.0,1443.0
+1475,Oceania,Polynesia,Cook Islands,2000,1208.0,1495.0
+1476,Oceania,Polynesia,Cook Islands,2010,1573.0,1527.0
+1477,Oceania,Polynesia,Cook Islands,2015,1452.0,1402.0
+1478,Oceania,Polynesia,Cook Islands,2019,1456.0,1407.0
+1479,Oceania,Polynesia,French Polynesia,1990,8547.0,13234.0
+1480,Oceania,Polynesia,French Polynesia,1995,9602.0,14313.0
+1481,Oceania,Polynesia,French Polynesia,2000,10465.0,15111.0
+1482,Oceania,Polynesia,French Polynesia,2005,11528.0,15779.0
+1483,Oceania,Polynesia,French Polynesia,2010,11399.0,15437.0
+1484,Oceania,Polynesia,French Polynesia,2015,10829.0,14665.0
+1485,Oceania,Polynesia,French Polynesia,2019,11243.0,15226.0
+1486,Oceania,Polynesia,Niue,1990,190.0,214.0
+1487,Oceania,Polynesia,Niue,1995,191.0,223.0
+1488,Oceania,Polynesia,Niue,2000,190.0,232.0
+1489,Oceania,Polynesia,Niue,2005,200.0,245.0
+1490,Oceania,Polynesia,Niue,2010,239.0,289.0
+1491,Oceania,Polynesia,Niue,2015,240.0,289.0
+1492,Oceania,Polynesia,Niue,2019,240.0,289.0
+1493,Oceania,Polynesia,Samoa,1990,1008.0,1121.0
+1494,Oceania,Polynesia,Samoa,1995,1396.0,1508.0
+1495,Oceania,Polynesia,Samoa,2000,1800.0,1875.0
+1496,Oceania,Polynesia,Samoa,2005,1705.0,1745.0
+1497,Oceania,Polynesia,Samoa,2010,1513.0,1508.0
+1498,Oceania,Polynesia,Samoa,2015,1253.0,1246.0
+1499,Oceania,Polynesia,Samoa,2019,1177.0,1183.0
+1500,Oceania,Polynesia,Tokelau,1990,109.0,136.0
+1501,Oceania,Polynesia,Tokelau,1995,109.0,134.0
+1502,Oceania,Polynesia,Tokelau,2000,113.0,125.0
+1503,Oceania,Polynesia,Tokelau,2005,120.0,116.0
+1504,Oceania,Polynesia,Tokelau,2010,215.0,180.0
+1505,Oceania,Polynesia,Tokelau,2015,245.0,205.0
+1506,Oceania,Polynesia,Tokelau,2019,251.0,213.0
+1507,Oceania,Polynesia,Tonga,1990,416.0,404.0
+1508,Oceania,Polynesia,Tonga,1995,456.0,472.0
+1509,Oceania,Polynesia,Tonga,2000,499.0,540.0
+1510,Oceania,Polynesia,Tonga,2005,575.0,637.0
+1511,Oceania,Polynesia,Tonga,2010,610.0,685.0
+1512,Oceania,Polynesia,Tonga,2015,519.0,590.0
+1513,Oceania,Polynesia,Tonga,2019,490.0,560.0
+1514,Oceania,Polynesia,Tuvalu,1990,112.0,134.0
+1515,Oceania,Polynesia,Tuvalu,1995,85.0,95.0
+1516,Oceania,Polynesia,Tuvalu,2000,71.0,65.0
+1517,Oceania,Polynesia,Tuvalu,2005,67.0,56.0
+1518,Oceania,Polynesia,Tuvalu,2010,68.0,52.0
+1519,Oceania,Polynesia,Tuvalu,2015,71.0,54.0
+1520,Oceania,Polynesia,Tuvalu,2019,73.0,57.0
+1521,Oceania,Polynesia,Wallis and Futuna Islands,1990,664.0,711.0
+1522,Oceania,Polynesia,Wallis and Futuna Islands,1995,816.0,852.0
+1523,Oceania,Polynesia,Wallis and Futuna Islands,2000,977.0,995.0
+1524,Oceania,Polynesia,Wallis and Futuna Islands,2005,1059.0,1081.0
+1525,Oceania,Polynesia,Wallis and Futuna Islands,2010,793.0,806.0
+1526,Oceania,Polynesia,Wallis and Futuna Islands,2015,518.0,527.0
+1527,Oceania,Polynesia,Wallis and Futuna Islands,2019,503.0,508.0
